@@ -10,7 +10,7 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 - Arquivos salvos em UTF-8.
 - Colunas organizadas por:
     
-	*Artigo: Nome do artigo como está escrito na edição original
+	* Artigo: Nome do artigo como está escrito na edição original
     
 	* Autor: Nome do autor do artigo, como na edição original.
     
@@ -24,7 +24,7 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
     
 	* Data: Mês e ano da publicação.
 
-
+- As revista "Eletrônica Popular" e "Antena" seguem a númeração de Volume e edição. Optei por representar no formato v,e. Assim 10,4 significa volume 10, edição 4.
 - Índice da revista "Saber Eletrônica" por [Reniet S. Marquet](http://www.reniemarquet.com/) reorganizado e reformatado para .CSV e acrescentadas algumas edições a mais.
 
 - Índice da revista "Eletrônica Popular" reorganizado e reformatado para .CSV à partir dos índices originais.
