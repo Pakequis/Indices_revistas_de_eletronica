@@ -5,9 +5,10 @@
 Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com.br)
 
 
-- Arquivos .CSV podem ser abertos e editados no Open Office Calc (ou no Excel). 
+- Arquivos .CSV podem ser abertos e editados no Open Office Calc (ou no Excel, tomando cuidado com os delimitadores). 
 
-- Arquivos salvos em UTF-8.
+- Arquivos salvos em UTF-8. Virgulas (,) como separador de campos e aspas (") como delimitador de textos.
+
 - Colunas organizadas por:
     
 	* Artigo: Nome do artigo como está escrito na edição original
