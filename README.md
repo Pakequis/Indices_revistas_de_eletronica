@@ -1,4 +1,4 @@
-# Õndices de Revistas de EletrÙnica Brasileiras
+# √çndices de Revistas de Eletr√¥nica Brasileiras
 
 
 
@@ -11,21 +11,23 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 
 - Colunas organizadas por:
     
-	* Artigo: Nome do artigo como est· escrito na ediÁ„o original
+	* Artigo: Nome do artigo como est√° escrito na edi√ß√£o original
     
-	* Autor: Nome do autor do artigo, como na ediÁ„o original.
+	* Autor: Nome do autor do artigo, como na edi√ß√£o original.
     
-	* P·gina: N˙mero da p·ginca em que o artigo se encontra.
+	* P√°gina: N√∫mero da p√°ginca em que o artigo se encontra.
     
-	* EdiÁ„o: N˙mero da ediÁ„o da revista.
+	* Edi√ß√£o: N√∫mero da edi√ß√£o da revista.
     
-	* Categoria: Palavras que descrevem o tipo do artigo (ex: ·udio, montagens, etc). Ainda precisa ser definida a lista de categorias.
+	* Categoria: Palavras que descrevem o tipo do artigo (ex: √°udio, montagens, etc). Ainda precisa ser definida a lista de categorias.
     
-	* Componentes: CÛdigos dos componentes mais importantes que aparecem em uma montagem de um artigo.
+	* Componentes: C√≥digos dos componentes mais importantes que aparecem em uma montagem de um artigo, separados por v√≠rgula.
     
-	* Data: MÍs e ano da publicaÁ„o.
+	* Data: M√™s e ano da publica√ß√£o.
 
-- As revistas "EletrÙnica Popular" e "Antena" seguem a n˙meraÁ„o de Volume e ediÁ„o. Optei por representar no formato v,e. Assim 10,4 significa volume 10, ediÁ„o 4.
-- Õndice da revista "Saber EletrÙnica" por [Reniet S. Marquet](http://www.reniemarquet.com/) reorganizado e reformatado para .CSV e acrescentadas algumas ediÁıes a mais.
+- As revistas "Eletr√¥nica Popular" e "Antenna" seguem a n√∫mera√ß√£o de Volume e edi√ß√£o. Optei por representar no formato v,e. Assim 10,4 significa volume 10, edi√ß√£o 4.
+- √çndice da revista "Saber Eletr√¥nica" por [Reniet S. Marquet](http://www.reniemarquet.com/) reorganizado e reformatado para .CSV e acrescentadas algumas edi√ß√µes a mais.
 
-- Õndice da revista "EletrÙnica Popular" reorganizado e reformatado para .CSV ‡ partir dos Ìndices originais.
+- √çndices das revistas "Eletr√¥nica Popular" e "Antenna" reorganizados e reformatados para .CSV √† partir dos √≠ndices originais.
+
+- Obrigado Picco!!!
