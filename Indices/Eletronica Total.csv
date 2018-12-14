@@ -1,62 +1,92 @@
-"Artigo:","Autor:","Página","Edição:","Categoria:","Componentes:","Notas:","Data:"
-"Os semicondutores","Newton C. Braga",45,1,,,,"Jul/1988"
-"Fios esmaltados para suas experiências",,51,1,,,,"Jul/1988"
-"Construa um capacitor",,53,1,,,,"Jul/1988"
-"Rádio AM de 2 transistores",,56,1,,,,"Jul/1988"
-"Pisca-Pisca",,57,1,,,,"Jul/1988"
-"Mixer",,58,1,,,,"Jul/1988"
-"Redutor eletroquímico",,59,1,,,,"Jul/1988"
-"Superouvido","Newton C. Braga",4,1,,,,"Jul/1988"
-"Para você não ter problemas com nossas montagens",,3,1,,,,"Jul/1988"
-"Os prismas de cristal",,12,1,,,,"Jul/1988"
-"Reparação de aparelhos transistorizados",,13,1,,,,"Jul/1988"
-"Doação de revistas ",,24,1,,,,"Jul/1988"
-"Limpeza de placas e peças",,27,1,,,,"Jul/1988"
-"Sintonizando ondas curtas ","Valter José Gomes Aguiar",35,1,,,,"Jul/1988"
-"Pilhas",,44,1,,,,"Jul/1988"
-"Fios blindados",,50,1,,,,"Jul/1988"
-"Infravermelho",,55,1,,,,"Jul/1988"
-"Pombos magnéticos",,60,1,,,,"Jul/1988"
-"Enciclopédia Eletrõnica Total (ficahs de no 1 a 3)",,61,1,,,,"Jul/1988"
-"Transmissor de FM com efeito de voz","Newton C. Braga",10,1,,,,"Jul/1988"
-"Módulo amplificador de 15W para o carro","Newton C. Braga",16,1,,,,"Jul/1988"
-"Controle eletrônico para ferramentas","Newton C. Braga",19,1,,,,"Jul/1988"
-"Convesor tensão frequência","Newton C. Braga",22,1,,,,"Jul/1988"
-"Bomba de água automática","Newton C. Braga",25,1,,,,"Jul/1988"
-"Fonte fixa de 12/12,6/13,6V x 10A",,28,1,,,,"Jul/1988"
-"Capacímetro para eletrolíticos",,36,1,,,,"Jul/1988"
-"Interruptor remoto seguro",,38,1,,,,"Jul/1988"
-"Medidor químico de transparência",,42,1,,,,"Jul/1988"
-"Cromeação simples",,8,2,,,,1988
-"Transmissor de AM",,12,2,,,,1988
-"Difusor Panorâmico",,16,2,,,,1988
-"Risada eletrônica",,19,2,,,,1988
-"Sistema sequencial de efeito de luz",,23,2,,,,1988
-"Inversor para lâmpadas fluorescentes",,27,2,,,,1988
-"Controle de temperatura para aquérios",,35,2,,,,1988
-"Etapa Darlington de amplificação",,38,2,,,,1988
-"Milivoltímetro",,40,2,,,,1988
-"Alerta – Alarme de aproximação",,3,2,,,,1988
-"Microalarme",,50,2,,,,1988
-"Experiência de conversão de energia",,52,2,,,,1988
-"Provador de transistores NPN e PNP",,55,2,,,,1988
-"Teste de fuga para capacitores",,57,2,,,,1988
-"Anemômetro simples",,57,2,,,,1988
-"Interruptor sonoro",,58,2,,,,1988
-"Sensi-led",,60,2,,,,1988
-"Antenas de ferrite",,10,2,,,,1988
-"Tipos de fios",,11,2,,,,1988
-"Polaridade",,11,2,,,,1988
-"Válvulas",,15,2,,,,1988
-"A Bobina de ignição",,22,2,,,,1988
-"A primeira pilha",,28,2,,,,1988
-"Sintonizando ondas curtas ",,29,2,,,,1988
-"Dos 100kHz aos 500kHz",,30,2,,,,1988
-"Cristais líquidos",,37,2,,,,1988
-"Piezoeletricidade",,37,2,,,,1988
-"O Univac",,39,2,,,,1988
-"O Marca-passo cardíaco",,42,2,,,,1988
-"Cargas estáticas",,43,2,,,,1988
-"Ressonância",,44,2,,,,1988
-"Recuperação de rádios antigos",,45,2,,,,1988
-"Enciclopédia Eletrõnica Total (ficahs de no 4 a 7)",,61,2,,,,1988
+Artigo:,Autor:,Página,Edição:,Categoria:,Componentes:,Notas:,Data:
+Os semicondutores,Newton C. Braga,45,1,,,,Jul/1988
+Fios esmaltados para suas experiências,,51,1,,,,Jul/1988
+Construa um capacitor,,53,1,,,,Jul/1988
+Rádio AM de 2 transistores,,56,1,,,,Jul/1988
+Pisca-Pisca,,57,1,,,,Jul/1988
+Mixer,,58,1,,,,Jul/1988
+Redutor eletroquímico,,59,1,,,,Jul/1988
+Superouvido,Newton C. Braga,4,1,,,,Jul/1988
+Para você não ter problemas com nossas montagens,,3,1,,,,Jul/1988
+Os prismas de cristal,,12,1,,,,Jul/1988
+Reparação de aparelhos transistorizados,,13,1,,,,Jul/1988
+Doação de revistas ,,24,1,,,,Jul/1988
+Limpeza de placas e peças,,27,1,,,,Jul/1988
+Sintonizando ondas curtas ,Valter José Gomes Aguiar,35,1,,,,Jul/1988
+Pilhas,,44,1,,,,Jul/1988
+Fios blindados,,50,1,,,,Jul/1988
+Infravermelho,,55,1,,,,Jul/1988
+Pombos magnéticos,,60,1,,,,Jul/1988
+Enciclopédia Eletrõnica Total (ficahs de no 1 a 3),,61,1,,,,Jul/1988
+Transmissor de FM com efeito de voz,Newton C. Braga,10,1,,,,Jul/1988
+Módulo amplificador de 15W para o carro,Newton C. Braga,16,1,,,,Jul/1988
+Controle eletrônico para ferramentas,Newton C. Braga,19,1,,,,Jul/1988
+Convesor tensão frequência,Newton C. Braga,22,1,,,,Jul/1988
+Bomba de água automática,Newton C. Braga,25,1,,,,Jul/1988
+"Fonte fixa de 12/12,6/13,6V x 10A",,28,1,,,,Jul/1988
+Capacímetro para eletrolíticos,,36,1,,,,Jul/1988
+Interruptor remoto seguro,,38,1,,,,Jul/1988
+Medidor químico de transparência,,42,1,,,,Jul/1988
+Cromeação simples,,8,2,,,,1988
+Transmissor de AM,,12,2,,,,1988
+Difusor Panorâmico,,16,2,,,,1988
+Risada eletrônica,,19,2,,,,1988
+Sistema sequencial de efeito de luz,,23,2,,,,1988
+Inversor para lâmpadas fluorescentes,,27,2,,,,1988
+Controle de temperatura para aquérios,,35,2,,,,1988
+Etapa Darlington de amplificação,,38,2,,,,1988
+Milivoltímetro,,40,2,,,,1988
+Alerta – Alarme de aproximação,,3,2,,,,1988
+Microalarme,,50,2,,,,1988
+Experiência de conversão de energia,,52,2,,,,1988
+Provador de transistores NPN e PNP,,55,2,,,,1988
+Teste de fuga para capacitores,,57,2,,,,1988
+Anemômetro simples,,57,2,,,,1988
+Interruptor sonoro,,58,2,,,,1988
+Sensi-led,,60,2,,,,1988
+Antenas de ferrite,,10,2,,,,1988
+Tipos de fios,,11,2,,,,1988
+Polaridade,,11,2,,,,1988
+Válvulas,,15,2,,,,1988
+A Bobina de ignição,,22,2,,,,1988
+A primeira pilha,,28,2,,,,1988
+Sintonizando ondas curtas ,,29,2,,,,1988
+Dos 100kHz aos 500kHz,,30,2,,,,1988
+Cristais líquidos,,37,2,,,,1988
+Piezoeletricidade,,37,2,,,,1988
+O Univac,,39,2,,,,1988
+O Marca-passo cardíaco,,42,2,,,,1988
+Cargas estáticas,,43,2,,,,1988
+Ressonância,,44,2,,,,1988
+Recuperação de rádios antigos,,45,2,,,,1988
+Enciclopédia Eletrõnica Total (ficahs de no 4 a 7),,61,2,,,,1988
+"Trêmulo para violão, guitarra e aparelhos de som",,13,3,,,,1988
+Amplificador de 8W com TDA2002,,18,3,,,,1988
+Som remoto sem fio para o MSX,,21,3,,,,1988
+Sintonizando ondas curtas – BFO para ouvir SSB,,29,3,,,,1988
+Vela eletrônica,,38,3,,,,1988
+Termômetro eletrônico de leitura remota,,42,3,,,,1988
+Interruptor crepuscular,,45,3,,,,1988
+Controle de motores DC,,48,3,,,,1988
+Estação de FM pirata,,3,3,,,,1988
+Oscilador solar,,52,3,,,,1988
+Que transistor usar?,,55,3,,,,1988
+Miniprojetos: miniluz rítmica,,57,3,,,,1988
+Busca pólo neon,,58,3,,,,1988
+Bomba relógio,,59,3,,,,1988
+Alarme com relé,,60,3,,,,1988
+Terra,,8,3,,,,1988
+Como usar placas de circuito impresso universais,,9,3,,,,1988
+Gaiola de Faraday,,12,3,,,,1988
+Velocidade dos elétrons,,16,3,,,,1988
+Ferrites,,23,3,,,,1988
+Conheça os amplificadores operacionais,,24,3,,,,1988
+50 anos do serviço brasileiro da BBC,,36,3,,,,1988
+Infravermelho,,37,3,,,,1988
+resistores,,41,3,,,,1988
+imãs,,44,3,,,,1988
+Peixes que sentem a eletricidade,,47,3,,,,1988
+Correio do leitor,,50,3,,,,1988
+Supercondutores,,54,3,,,,1988
+Satélites de Júpiter,,56,3,,,,1988
+Enciclopédia Eletrônica Total (fichas de no 8 a 11),,61,3,,,,1988
