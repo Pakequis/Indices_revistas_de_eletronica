@@ -29,5 +29,6 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 - Índice da revista "Saber Eletrônica" por [Reniet S. Marquet](http://www.reniemarquet.com/) reorganizado e reformatado para .CSV e acrescentadas algumas edições a mais.
 
 - Índices das revistas "Eletrônica Popular" e "Antenna" reorganizados e reformatados para .CSV à partir dos índices originais.
+- Índices da revista "Elektor" primeira série reorganizados e reformatados para .CSV a partir do índice do blog do Picco.
 
 - Obrigado Picco!!!
