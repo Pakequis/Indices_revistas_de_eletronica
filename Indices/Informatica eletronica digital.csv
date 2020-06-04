@@ -1,83 +1,128 @@
-Artigo:,Autor:,Página,Edição:,Categoria:,Componentes:,Notas:,Data:
-Editorial,,2,1,,,,Agosto/1983
-Conversa com o leitor,,3,1,,,,Agosto/1983
-Curso de eletrônica digital,,5,1,,,,Agosto/1983
-A importância dos mircoprocessadores,,9,1,,,,Agosto/1983
-Construa um medidor de níveis lógicos,,11,1,,,,Agosto/1983
-Circuitos digitais e suas famílias lógicas,,20,1,,,,Agosto/1983
-"Gerador de pulsos lógicos (teoria, prática e montagem)",,24,1,,,,Agosto/1983
-Ficha Técnica (circuito integrado do Mês),,37,1,,,,Agosto/1983
-Cronômetro digital,,44,1,,,,Agosto/1983
-Construa um gerador sequencial de 16 tons,,55,1,,,,Agosto/1983
-Testador universal de transistores,,67,1,,,,Agosto/1983
-Conversa com o leitor,,2,2,,,,Setembro/1983
-Curso de Eltrônica digital – Parte 2,,3,2,,,,Setembro/1983
-Minuteria eletrônica Digital – Brinde de capa,,12,2,,,,Setembro/1983
-74LS00 e suas 15 aplicações,,24,2,,,,Setembro/1983
-Curso de Basic,,34,2,,,,Setembro/1983
-Aplicações dos circuitos integrados digitais – Comutador manual,,40,2,,,,Setembro/1983
-Circuito integrado do mês – CD4001,,51,2,,,,Setembro/1983
-Novos produtos,,58,2,,,,Setembro/1983
-Reguladores de voltagem 78LXX e 79LXX,,62,2,,,,Setembro/1983
-Metrônomo digital,,67,2,,,,Setembro/1983
-Conversa com o leitor,,2,3,,,,Outubro/1983
-Curso de Eltrônica Digital – Parte 3,,3,3,,,,Outubro/1983
-Detector de chave de ignição,,7,3,,,,Outubro/1983
-74LS132 e suas 8 aplicações,,20,3,,,,Outubro/1983
-Codificador BCD para teclador decimal,,26,3,,,,Outubro/1983
-Curso de Basic,,39,3,,,,Outubro/1983
-Aplicações para os circuitos integrados digitais,,44,3,,,,Outubro/1983
-Ficha Técnica (circuito integrado do Mês),,49,3,,,,Outubro/1983
-Cartas,,56,3,,,,Outubro/1983
-Foto contador digital,,60,3,,,,Outubro/1983
-Conversa com o leitor,,2,7,,,,Fevereiro/1984
-Curso de Eletrônica Digital (Parte 7),,4,7,,,,Fevereiro/1984
-Somador Lógico,,10,7,,,,Fevereiro/1984
-Curso de Basic - 6a Parte,,24,7,,,,Fevereiro/1984
-Programas,,29,7,,,,Fevereiro/1984
-4049 e suas 11 aplicações,,32,7,,,,Fevereiro/1984
-Aplicações para os circuitos integrados digitais: Clock temporizado para jogos eletrônicos,,42,7,,,,Fevereiro/1984
-4528 tabelado,,46,7,,,,Fevereiro/1984
-A Microdigital e a conquista das novas tecnologias,,52,7,,,,Fevereiro/1984
-Ficha Técnica – Circuito integrado do mês CD 4009,,61,7,,,,Fevereiro/1984
-Infra Red – Controle remoto por infra-vermelho,,67,7,,,,Fevereiro/1984
-O telefone que anda,,89,7,,,,Fevereiro/1984
-Alvo play,,92,7,,,,Fevereiro/1984
-Cartas,,106,7,,,,Fevereiro/1984
-Conversa com o leitor,,2,9,,,,Abril/1984
-Curso de Eletrônica Digital (Parte 9),,4,9,,,,Abril/1984
-Subtrator lógico,,8,9,,,,Abril/1984
-Curso de Basic – 8a. Parte,,22,9,,,,Abril/1984
-Programa Calendário Juliano,,27,9,,,,Abril/1984
-Bilux,,30,9,,,,Abril/1984
-Ficha técnica – Circuito integrado do mês CD 4011,,41,9,,,,Abril/1984
-Microcomputadores a serviço do tráfego,,47,9,,,,Abril/1984
-Video Novas tendências,,48,9,,,,Abril/1984
-Aplicações para os circuitos integrados digitais: Interface CMOS x TRIAC,,52,9,,,,Abril/1984
-Ionizador,,63,9,,,,Abril/1984
-Cartas,,71,9,,,,Abril/1984
-Microcomputador de pulso,,76,9,,,,Abril/1984
-Conversa com o leitor,,2,10,,,,Maio/1984
-Curso de eletrônica Digital (10a Parte),,4,10,,,,Maio/1984
-LED Interface,,8,10,,,,Maio/1984
-Curso de Basic - 9a Parte,,25,10,,,,Maio/1984
-Aplicativo Prológica (calendário Bidu),,30,10,,,,Maio/1984
-CD do mês – CD4012,,33,10,,,,Maio/1984
-Data RAM,,40,10,,,,Maio/1984
-Inédito – Circuitos QMOS,,51,10,,,,Maio/1984
-Novos produtos Aries,,56,10,,,,Maio/1984
-Dois bilhões na implantação de um polo de informática,,60,10,,,,Maio/1984
-Digiplay,,63,10,,,,Maio/1984
-Cartas,,76,10,,,,Maio/1984
-Conversa com o leitor,,2,11,,,,Junho/1984
-Curso de eletrônica Digital (11a. Parte),,4,11,,,,Junho/1984
-Power Alert,,8,11,,,,Junho/1984
-Curso de Basic - 10a Parte,,15,11,,,,Junho/1984
-Programa – Aplicativo Prológica (Divisão A por B com “N” casas decimais),,22,11,,,,Junho/1984
-Conta Impulso,,23,11,,,,Junho/1984
-CD do mês – CD4013,,37,11,,,,Junho/1984
-"Micro da linha Sinclair Teclado, funções e traduções",,44,11,,,,Junho/1984
-Bit Interface,,48,11,,,,Junho/1984
-Plajet,,61,11,,,,Junho/1984
-Memórias EPROM – Conceito e evolução,,62,11,,,,Junho/1984
-Cartas,,68,11,,,,Junho/1984
+"Artigo:","Autor:","Página","Edição:","Categoria:","Componentes:","Notas:","Data:"
+"Editorial",,2,1,,,,"Agosto/1983"
+"Conversa com o leitor",,3,1,,,,"Agosto/1983"
+"Curso de eletrônica digital",,5,1,,,,"Agosto/1983"
+"A importância dos mircoprocessadores",,9,1,,,,"Agosto/1983"
+"Construa um medidor de níveis lógicos",,11,1,,,,"Agosto/1983"
+"Circuitos digitais e suas famílias lógicas",,20,1,,,,"Agosto/1983"
+"Gerador de pulsos lógicos (teoria, prática e montagem)",,24,1,,,,"Agosto/1983"
+"Ficha Técnica (circuito integrado do Mês)",,37,1,,,,"Agosto/1983"
+"Cronômetro digital",,44,1,,,,"Agosto/1983"
+"Construa um gerador sequencial de 16 tons",,55,1,,,,"Agosto/1983"
+"Testador universal de transistores",,67,1,,,,"Agosto/1983"
+"Conversa com o leitor",,2,2,,,,"Setembro/1983"
+"Curso de Eltrônica digital – Parte 2",,3,2,,,,"Setembro/1983"
+"Minuteria eletrônica Digital – Brinde de capa",,12,2,,,,"Setembro/1983"
+"74LS00 e suas 15 aplicações",,24,2,,,,"Setembro/1983"
+"Curso de Basic",,34,2,,,,"Setembro/1983"
+"Aplicações dos circuitos integrados digitais – Comutador manual",,40,2,,,,"Setembro/1983"
+"Circuito integrado do mês – CD4001",,51,2,,,,"Setembro/1983"
+"Novos produtos",,58,2,,,,"Setembro/1983"
+"Reguladores de voltagem 78LXX e 79LXX",,62,2,,,,"Setembro/1983"
+"Metrônomo digital",,67,2,,,,"Setembro/1983"
+"Conversa com o leitor",,2,3,,,,"Outubro/1983"
+"Curso de Eltrônica Digital – Parte 3",,3,3,,,,"Outubro/1983"
+"Detector de chave de ignição",,7,3,,,,"Outubro/1983"
+"74LS132 e suas 8 aplicações",,20,3,,,,"Outubro/1983"
+"Codificador BCD para teclador decimal",,26,3,,,,"Outubro/1983"
+"Curso de Basic",,39,3,,,,"Outubro/1983"
+"Aplicações para os circuitos integrados digitais",,44,3,,,,"Outubro/1983"
+"Ficha Técnica (circuito integrado do Mês)",,49,3,,,,"Outubro/1983"
+"Cartas",,56,3,,,,"Outubro/1983"
+"Foto contador digital",,60,3,,,,"Outubro/1983"
+"Conversa com o leitor",,2,4,,,,"Novembro/1983"
+"Curso de eletrônica digital (parte 4)",,4,4,,,,"Novembro/1983"
+"Micro Senha (brinde de capa)",,8,4,,,,"Novembro/1983"
+"Notas",,20,4,,,,"Novembro/1983"
+"Curso de Basic - 3a parte",,24,4,,,,"Novembro/1983"
+"Digitranca",,28,4,,,,"Novembro/1983"
+"Ficha técnica – Circuito integrado do mês – 4006",,47,4,,,,"Novembro/1983"
+"O Universo computacionário",,54,4,,,,"Novembro/1983"
+"Cartas",,56,4,,,,"Novembro/1983"
+"Campainha digital para telefone (Digibel)",,60,4,,,,"Novembro/1983"
+"Entenda as placas de circuito impresso da informática",,71,4,,,,"Novembro/1983"
+"Conversa com o leitor (Mensagem de Natal)",,2,5,,,,"Dezembro/1983"
+"Curso de eletrônica digital (parte 5)",,3,5,,,,"Dezembro/1983"
+"Natalamp",,6,5,,,,"Dezembro/1983"
+"Aplicações para os circuitos integrados digitais: Decodificador sete segmentos/Decimal/Hexadecimal",,24,5,,,,"Dezembro/1983"
+"Curso de Basic - 4a parte",,30,5,,,,"Dezembro/1983"
+"Digivox",,34,5,,,,"Dezembro/1983"
+"Ficha técnica – Circuito integrado do mês – CD4007",,61,5,,,,"Dezembro/1983"
+"CI Teste (brinde de capa",,68,5,,,,"Dezembro/1983"
+"O desafio dos microcomputadores",,80,5,,,,"Dezembro/1983"
+"Cartas",,82,5,,,,"Dezembro/1983"
+"Displays programáveis que andam",,87,5,,,,"Dezembro/1983"
+"Conversa com o leitor",,2,6,,,,"Janeiro/1984"
+"Curso de eletrônica digital (parte 6)",,4,6,,,,"Janeiro/1984"
+"Fototimer",,8,6,,,,"Janeiro/1984"
+"Curso de Basic - 5a parte",,24,6,,,,"Janeiro/1984"
+"Programa – Ataque interplanetário",,28,6,,,,"Janeiro/1984"
+"Kit do mês – Audilux",,32,6,,,,"Janeiro/1984"
+"Ficha técnica – Circuito integrado do mês – CD4008",,47,6,,,,"Janeiro/1984"
+"Memórias",,54,6,,,,"Janeiro/1984"
+"Programatic",,66,6,,,,"Janeiro/1984"
+"Cartas",,90,6,,,,"Janeiro/1984"
+"Computador de navegação para carro",,94,6,,,,"Janeiro/1984"
+"Aplicações dos circuitos integrados digitais – Divisor de 1 a 15",,96,6,,,,"Janeiro/1984"
+"Conversa com o leitor",,2,7,,,,"Fevereiro/1984"
+"Curso de Eletrônica Digital (Parte 7)",,4,7,,,,"Fevereiro/1984"
+"Somador Lógico",,10,7,,,,"Fevereiro/1984"
+"Curso de Basic - 6a Parte",,24,7,,,,"Fevereiro/1984"
+"Programas",,29,7,,,,"Fevereiro/1984"
+"4049 e suas 11 aplicações",,32,7,,,,"Fevereiro/1984"
+"Aplicações para os circuitos integrados digitais: Clock temporizado para jogos eletrônicos",,42,7,,,,"Fevereiro/1984"
+"4528 tabelado",,46,7,,,,"Fevereiro/1984"
+"A Microdigital e a conquista das novas tecnologias",,52,7,,,,"Fevereiro/1984"
+"Ficha Técnica – Circuito integrado do mês CD 4009",,61,7,,,,"Fevereiro/1984"
+"Infra Red – Controle remoto por infra-vermelho",,67,7,,,,"Fevereiro/1984"
+"O telefone que anda",,89,7,,,,"Fevereiro/1984"
+"Alvo play",,92,7,,,,"Fevereiro/1984"
+"Cartas",,106,7,,,,"Fevereiro/1984"
+"Conversa com o leitor",,2,8,,,,"Março/1984"
+"Curso de eletrônica digital (parte 8)",,5,8,,,,"Março/1984"
+"Basic - 7a parte",,13,8,,,,"Março/1984"
+"Aplicativo da prológica",,18,8,,,,"Março/1984"
+"Pulse test",,20,8,,,,"Março/1984"
+"Lista telefônica de bolso? Estamos a caminho",,35,8,,,,"Março/1984"
+"Aplicações para os circuitos integrados digitais: Selecionador de dados com saída de magnitude",,37,8,,,,"Março/1984"
+"Um passeio pela microeletrônica",,44,8,,,,"Março/1984"
+"Ficha técnica – Circuito integrado do mês – CD4010",,51,8,,,,"Março/1984"
+"Visotron",,58,8,,,,"Março/1984"
+"Cartas",,72,8,,,,"Março/1984"
+"Conversa com o leitor",,2,9,,,,"Abril/1984"
+"Curso de Eletrônica Digital (Parte 9)",,4,9,,,,"Abril/1984"
+"Subtrator lógico",,8,9,,,,"Abril/1984"
+"Curso de Basic – 8a. Parte",,22,9,,,,"Abril/1984"
+"Programa Calendário Juliano",,27,9,,,,"Abril/1984"
+"Bilux",,30,9,,,,"Abril/1984"
+"Ficha técnica – Circuito integrado do mês CD 4011",,41,9,,,,"Abril/1984"
+"Microcomputadores a serviço do tráfego",,47,9,,,,"Abril/1984"
+"Video Novas tendências",,48,9,,,,"Abril/1984"
+"Aplicações para os circuitos integrados digitais: Interface CMOS x TRIAC",,52,9,,,,"Abril/1984"
+"Ionizador",,63,9,,,,"Abril/1984"
+"Cartas",,71,9,,,,"Abril/1984"
+"Microcomputador de pulso",,76,9,,,,"Abril/1984"
+"Conversa com o leitor",,2,10,,,,"Maio/1984"
+"Curso de eletrônica Digital (10a Parte)",,4,10,,,,"Maio/1984"
+"LED Interface",,8,10,,,,"Maio/1984"
+"Curso de Basic - 9a Parte",,25,10,,,,"Maio/1984"
+"Aplicativo Prológica (calendário Bidu)",,30,10,,,,"Maio/1984"
+"CD do mês – CD4012",,33,10,,,,"Maio/1984"
+"Data RAM",,40,10,,,,"Maio/1984"
+"Inédito – Circuitos QMOS",,51,10,,,,"Maio/1984"
+"Novos produtos Aries",,56,10,,,,"Maio/1984"
+"Dois bilhões na implantação de um polo de informática",,60,10,,,,"Maio/1984"
+"Digiplay",,63,10,,,,"Maio/1984"
+"Cartas",,76,10,,,,"Maio/1984"
+"Conversa com o leitor",,2,11,,,,"Junho/1984"
+"Curso de eletrônica Digital (11a. Parte)",,4,11,,,,"Junho/1984"
+"Power Alert",,8,11,,,,"Junho/1984"
+"Curso de Basic - 10a Parte",,15,11,,,,"Junho/1984"
+"Programa – Aplicativo Prológica (Divisão A por B com “N” casas decimais)",,22,11,,,,"Junho/1984"
+"Conta Impulso",,23,11,,,,"Junho/1984"
+"CD do mês – CD4013",,37,11,,,,"Junho/1984"
+"Micro da linha Sinclair Teclado, funções e traduções",,44,11,,,,"Junho/1984"
+"Bit Interface",,48,11,,,,"Junho/1984"
+"Plajet",,61,11,,,,"Junho/1984"
+"Memórias EPROM – Conceito e evolução",,62,11,,,,"Junho/1984"
+"Cartas",,68,11,,,,"Junho/1984"
