@@ -32,3 +32,5 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 - Índices da revista "Elektor" primeira série reorganizados e reformatados para .CSV a partir do índice do blog do Picco.
 
 - Obrigado Picco!!!
+
+- Alguns índices atualizados por Walter Nunes (APE, Be-a-ba e DCE).
