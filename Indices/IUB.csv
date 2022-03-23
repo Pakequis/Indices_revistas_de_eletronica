@@ -1,109 +1,148 @@
 Artigo:,Autor:,Página,Edição:,Categoria:,Componentes:,Notas:,Data:
-Radioporteiro Eletrônico,,9,1,,,,198X
-O Be a Bá dos computadores,,20,1,,,,198X
-Rádio Relógio digital Eletrônico,,54,1,,,,198X
-Py e PX,,66,1,,,,198X
-Aferidor RC,,69,1,,,,198X
-Editorial,,3,1,,,,198X
-Depoimento – Um profissional vitorioso,,6,1,,,,198X
-Áudio – Rumble e Loundness,,23,1,,,,198X
-Sistema de FM – Multiplex,,24,1,,,,198X
-Transmissor experimental de AM,,28,1,,,,198X
-Sintonizador de OM,,34,1,,,,198X
-Reportagem – Icotron,,44,1,,,,198X
-Novidades e curiosidades eletrônicas,,46,1,,,,198X
-Solda – Soldagem,,50,1,,,,198X
-Vídeo e TV – Os segredos da TV a Cores,,58,1,,,,198X
-Correio Técnico,,61,1,,,,198X
-Tabelas e equivalências,,68,1,,,,198X
-Esquema do mês – Oscilador RC,,73,1,,,,198X
-Livros Técnicos,,76,1,,,,198X
-Ponto de encontro,,82,1,,,,198X
-Intercomunicador de 10 Ramais,,8,2,,,,198X
-Eliminador de pilhas estabilizado,,24,2,,,,198X
-Microcomputadores,,32,2,,,,198X
-Fibras óticas,,50,2,,,,198X
-Câmaras para vídeo cassete,,56,2,,,,198X
-Editorial,,3,2,,,,198X
-Reportagem – Rua Santa Ifigênia,,6,2,,,,198X
-Py e PX – Transmissor para 2 metros,,20,2,,,,198X
-Rádio Relógio digital eletrônico - 2a parte,,36,2,,,,198X
-Correio Técnico,,44,2,,,,198X
-Áudio – Gerador de ruído branco,,48,2,,,,198X
-Tabelas e equivalências,,60,2,,,,198X
-Vídeo e TV – Os segredos da TV a Cores - 2a parte,,62,2,,,,198X
-Projetos práticos – Oscilador RC,,66,2,,,,198X
-Sistema de FM – Multiplex – conclusão,,68,2,,,,198X
-Novidades e curiosidades eletrônicas,,73,2,,,,198X
-Livros Técnicos,,75,2,,,,198X
-Ponto de encontro,,82,2,,,,198X
-Kit do Mês – Gerador de vídeo,,9,3,,,,
-Câmaras para vídeo cassete Stripe Filter,,18,3,,,,
-Py e PX – Antenas,,24,3,,,,
-Áudio e caixas acústicas,,34,3,,,,
-Amplificadores de áudio classe G,,70,3,,,,
-Editorial,,3,3,,,,
-Reportagem – Radioamadorismo,,6,3,,,,
-Microcomputadores,,28,3,,,,
-Vídeo e TV – Instrumentos de testes,,44,3,,,,
-Intercomunicador de 10 Ramais – Conclusão,,49,3,,,,
-Rádio Relógio digital Eletrônico - 3a Parte,,62,3,,,,
-Correio Técnico,,66,3,,,,
-Tabelas e equivalências,,75,3,,,,
-Ponto de encontro,,82,3,,,,
-Kit do Mês – VU com LEDs – K16,,10,4,,,,
-Amplificador de áduio com FET K03C,,18,4,,,,
-Simbologia Eletrônica,,24,4,,,,
-Microcomputadores,,28,4,,,,
-Câmaras para vídeo cassete,,38,4,,,,
-Editorial,,3,4,,,,
-Reportagem – Taurus arma a eletrônica,,6,4,,,,
-Circuitos digitais,,34,4,,,,
-Py e PX – Antenas Yagi – Construção de um medidor de ROE,,44,4,,,,
-Áudio – Controle de graves e agudos,,54,4,,,,
-Novidades e curiosidades eletrônicas,,56,4,,,,
-Tabelas e equivalências,,59,4,,,,
-Correio Técnico,,60,4,,,,
-Esquema do mês – Dobrador de tensão,,62,4,,,,
-Vídeo e TV – Manutenção de AP de TV,,64,4,,,,
-Rádio Relógio digital Eletrônico - 4a parte,,70,4,,,,
-Livros Técnicos,,75,4,,,,
-Ponto de encontro,,82,4,,,,
-Kit do mês – Ampitrêmulo – k18,,10,5,,,,
-Fonte de 12 Volts estabilizada – k15,,19,5,,,,
-Mute & Dial Light – K17,,25,5,,,,
-Música e eletrônica,,48,5,,,,
-Alta Fidelidade,,68,5,,,,
-Editorial,,3,5,,,,
-Reportagem – Jockey club na era do computador,,6,5,,,,
-Circuitos digitais – Teclado e display,,34,5,,,,
-Simbologia Eletrônica,,39,5,,,,
-Vídeo e TV,,45,5,,,,
-Ajustes de receptores,,52,5,,,,
-PY e PX – Proteção para antena,,56,5,,,,
-Esquema do Mês,,58,5,,,,
-Novidades e curiosidades eletrônicas,,59,5,,,,
-Correio Técnico,,63,5,,,,
-Rádio Relógio digital Eletrônico – Conclusão,,70,5,,,,
-Tabelas e equivalências,,75,5,,,,
-Livros Técnicos,,76,5,,,,
-Ponto de encontro,,82,5,,,,
-Kit do mês – Geratest – k20,,10,6,,,,
-Sirene multi-ton – k21,,28,6,,,,
-Eletrônica na medicina,,32,6,,,,
-Gravadores – Rolo ou cassete,,38,6,,,,
-CI de áudio – TDA1515,,58,6,,,,
-Editorial,,3,6,,,,
-Reportagem,,6,6,,,,
-Módulo de proteção,,20,6,,,,
-Py e PX,,42,6,,,,
-Vídeo e TV,,44,6,,,,
-Vídeocassete,,48,6,,,,
-Circuitos digitais,,53,6,,,,
-Projeto do Aluno,,63,6,,,,
-Correio Técnico,,66,6,,,,
-Esquema do Mês,,71,6,,,,
-Novidades e curiosidades eletrônicas,,74,6,,,,
-Tabelas e equivalências,,78,6,,,,
-Livros Técnicos,,80,6,,,,
-Ponto de encontro,,82,6,,,,
+Radioporteiro Eletrônico,,9,1,,,,1984
+O Be a Bá dos computadores,,20,1,,,,1984
+Rádio Relógio digital Eletrônico,,54,1,,,,1984
+Py e PX,,66,1,,,,1984
+Aferidor RC,,69,1,,,,1984
+Editorial,,3,1,,,,1984
+Depoimento – Um profissional vitorioso,,6,1,,,,1984
+Áudio – Rumble e Loundness,,23,1,,,,1984
+Sistema de FM – Multiplex,,24,1,,,,1984
+Transmissor experimental de AM,,28,1,,,,1984
+Sintonizador de OM,,34,1,,,,1984
+Reportagem – Icotron,,44,1,,,,1984
+Novidades e curiosidades eletrônicas,,46,1,,,,1984
+Solda – Soldagem,,50,1,,,,1984
+Vídeo e TV – Os segredos da TV a Cores,,58,1,,,,1984
+Correio Técnico,,61,1,,,,1984
+Tabelas e equivalências,,68,1,,,,1984
+Esquema do mês – Oscilador RC,,73,1,,,,1984
+Livros Técnicos,,76,1,,,,1984
+Ponto de encontro,,82,1,,,,1984
+Intercomunicador de 10 Ramais,,8,2,,,,1984
+Eliminador de pilhas estabilizado,,24,2,,,,1984
+Microcomputadores,,32,2,,,,1984
+Fibras óticas,,50,2,,,,1984
+Câmaras para vídeo cassete,,56,2,,,,1984
+Editorial,,3,2,,,,1984
+Reportagem – Rua Santa Ifigênia,,6,2,,,,1984
+Py e PX – Transmissor para 2 metros,,20,2,,,,1984
+Rádio Relógio digital eletrônico - 2a parte,,36,2,,,,1984
+Correio Técnico,,44,2,,,,1984
+Áudio – Gerador de ruído branco,,48,2,,,,1984
+Tabelas e equivalências,,60,2,,,,1984
+Vídeo e TV – Os segredos da TV a Cores - 2a parte,,62,2,,,,1984
+Projetos práticos – Oscilador RC,,66,2,,,,1984
+Sistema de FM – Multiplex – conclusão,,68,2,,,,1984
+Novidades e curiosidades eletrônicas,,73,2,,,,1984
+Livros Técnicos,,75,2,,,,1984
+Ponto de encontro,,82,2,,,,1984
+Kit do Mês – Gerador de vídeo,,9,3,,,,1984
+Câmaras para vídeo cassete Stripe Filter,,18,3,,,,1984
+Py e PX – Antenas,,24,3,,,,1984
+Áudio e caixas acústicas,,34,3,,,,1984
+Amplificadores de áudio classe G,,70,3,,,,1984
+Editorial,,3,3,,,,1984
+Reportagem – Radioamadorismo,,6,3,,,,1984
+Microcomputadores,,28,3,,,,1984
+Vídeo e TV – Instrumentos de testes,,44,3,,,,1984
+Intercomunicador de 10 Ramais – Conclusão,,49,3,,,,1984
+Rádio Relógio digital Eletrônico - 3a Parte,,62,3,,,,1984
+Correio Técnico,,66,3,,,,1984
+Tabelas e equivalências,,75,3,,,,1984
+Ponto de encontro,,82,3,,,,1984
+Kit do Mês – VU com LEDs – K16,,10,4,,,,1984
+Amplificador de áduio com FET K03C,,18,4,,,,1984
+Simbologia Eletrônica,,24,4,,,,1984
+Microcomputadores,,28,4,,,,1984
+Câmaras para vídeo cassete,,38,4,,,,1984
+Editorial,,3,4,,,,1984
+Reportagem – Taurus arma a eletrônica,,6,4,,,,1984
+Circuitos digitais,,34,4,,,,1984
+Py e PX – Antenas Yagi – Construção de um medidor de ROE,,44,4,,,,1984
+Áudio – Controle de graves e agudos,,54,4,,,,1984
+Novidades e curiosidades eletrônicas,,56,4,,,,1984
+Tabelas e equivalências,,59,4,,,,1984
+Correio Técnico,,60,4,,,,1984
+Esquema do mês – Dobrador de tensão,,62,4,,,,1984
+Vídeo e TV – Manutenção de AP de TV,,64,4,,,,1984
+Rádio Relógio digital Eletrônico - 4a parte,,70,4,,,,1984
+Livros Técnicos,,75,4,,,,1984
+Ponto de encontro,,82,4,,,,1984
+Kit do mês – Ampitrêmulo – k18,,10,5,,,,1984
+Fonte de 12 Volts estabilizada – k15,,19,5,,,,1984
+Mute & Dial Light – K17,,25,5,,,,1984
+Música e eletrônica,,48,5,,,,1984
+Alta Fidelidade,,68,5,,,,1984
+Editorial,,3,5,,,,1984
+Reportagem – Jockey club na era do computador,,6,5,,,,1984
+Circuitos digitais – Teclado e display,,34,5,,,,1984
+Simbologia Eletrônica,,39,5,,,,1984
+Vídeo e TV,,45,5,,,,1984
+Ajustes de receptores,,52,5,,,,1984
+PY e PX – Proteção para antena,,56,5,,,,1984
+Esquema do Mês,,58,5,,,,1984
+Novidades e curiosidades eletrônicas,,59,5,,,,1984
+Correio Técnico,,63,5,,,,1984
+Rádio Relógio digital Eletrônico – Conclusão,,70,5,,,,1984
+Tabelas e equivalências,,75,5,,,,1984
+Livros Técnicos,,76,5,,,,1984
+Ponto de encontro,,82,5,,,,1984
+Kit do mês – Geratest – k20,,10,6,,,,1984
+Sirene multi-ton – k21,,28,6,,,,1984
+Eletrônica na medicina,,32,6,,,,1984
+Gravadores – Rolo ou cassete,,38,6,,,,1984
+CI de áudio – TDA1515,,58,6,,,,1984
+Editorial,,3,6,,,,1984
+Reportagem,,6,6,,,,1984
+Módulo de proteção,,20,6,,,,1984
+Py e PX,,42,6,,,,1984
+Vídeo e TV,,44,6,,,,1984
+Vídeocassete,,48,6,,,,1984
+Circuitos digitais,,53,6,,,,1984
+Projeto do Aluno,,63,6,,,,1984
+Correio Técnico,,66,6,,,,1984
+Esquema do Mês,,71,6,,,,1984
+Novidades e curiosidades eletrônicas,,74,6,,,,1984
+Tabelas e equivalências,,78,6,,,,1984
+Livros Técnicos,,80,6,,,,1984
+Ponto de encontro,,82,6,,,,1984
+Kit do Mês – Equalizador – K22,,10,7,,,,1984
+Kit hobby Ponta de prova ativa para pequenos sinais,,19,7,,,,1984
+Como escolher caixas acústicas,,24,7,,,,1984
+Vídeo cassete – Sistema mecânico,,40,7,,,,1984
+Radiocontrole – O mundo maravilhoso dos brinquedos,,58,7,,,,1984
+Editorial,,3,7,,,,1984
+Reportagem,,6,7,,,,1984
+Eletrônica na medicina,,28,7,,,,1984
+Decibel,,30,7,,,,1984
+Vídeo e TV,,34,7,,,,1984
+Esquema do Mês,,45,7,,,,1984
+Circuitos digitais,,49,7,,,,1984
+Correio Técnico,,53,7,,,,1984
+Projeto do leitor,,65,7,,,,1984
+Py e PX,,68,7,,,,1984
+Amplificador para a faixa de VHF,,73,7,,,,1984
+Tabelas e equivalências,,78,7,,,,1984
+Livros Técnicos,,80,7,,,,1984
+Ponto de encontro,,82,7,,,,1984
+Kit do Mês – Super fonte K23,,10,8,,,,Janeiro 1985
+Kit Hobby – Sininho K24,,20,8,,,,Janeiro 1985
+Sonorização para automóveis,,25,8,,,,Janeiro 1985
+Equalizadores,,29,8,,,,Janeiro 1985
+PX,,41,8,,,,Janeiro 1985
+Editorial,,3,8,,,,Janeiro 1985
+Reportagem,,6,8,,,,Janeiro 1985
+Vídeo e TV,,33,8,,,,Janeiro 1985
+A era digital,,38,8,,,,Janeiro 1985
+Correio Técnico,,44,8,,,,Janeiro 1985
+Projeto do leitor,,48,8,,,,Janeiro 1985
+Resistores,,49,8,,,,Janeiro 1985
+Circuitos digitais,,55,8,,,,Janeiro 1985
+Vídeocassete,,59,8,,,,Janeiro 1985
+Teste seus conhecimentos,,64,8,,,,Janeiro 1985
+Esquema do Mês,,66,8,,,,Janeiro 1985
+Livros Técnicos,,72,8,,,,Janeiro 1985
+Tabelas e equivalências,,76,8,,,,Janeiro 1985
+Novidades e curiosidades eletrônicas,,78,8,,,,Janeiro 1985
+Ponto de encontro,,82,8,,,,Janeiro 1985
