@@ -92,7 +92,7 @@ def render_and_ocr(pdf: str, page: int, crop: tuple[float, float, float, float],
         bw_path = tmp_path / "bw.png"
         bw.save(bw_path)
         result = subprocess.run(
-            ["tesseract", str(bw_path), "stdout", "--psm", "6", "-l", "por"],
+            ["tesseract", str(bw_path), "stdout", "--psm", "3", "-l", "por"],
             capture_output=True, text=True, check=True,
         )
         return result.stdout
@@ -111,6 +111,46 @@ def split_by_category(text: str) -> list[tuple[str, list[str]]]:
     OCR partiu em 2 linhas (tudo maiúsculo) são rejuntados antes de checar
     contra CATEGORY_HEADERS."""
     raw_lines = [l.strip() for l in text.splitlines() if l.strip()]
+
+    # pré-junta determinística (antes do LLM): quando uma linha não termina
+    # em nada que pareça número E a próxima começa com "(", é quase sempre
+    # o título que estourou pra 2 linhas com o código do componente na
+    # segunda ("Amplificador Para Célula Solar" / "(uA702) ... 25"). Deixar
+    # o LLM decidir isso se mostrou pouco confiável (ele às vezes funde as
+    # duas mas perde a página no processo) — resolvendo aqui, o LLM nunca
+    # vê a ambiguidade.
+    def _ends_with_digit_ish(s: str) -> bool:
+        tail = s.rstrip(" .,:;'\"[]«»+*“”'’")
+        return bool(tail) and tail[-1] in "0123456789OoDIlBS"
+
+    premerged: list[str] = []
+    i = 0
+    while i < len(raw_lines):
+        if (i + 1 < len(raw_lines) and not _ends_with_digit_ish(raw_lines[i])
+                and raw_lines[i + 1].startswith("(")):
+            second = raw_lines[i + 1]
+            # tenta resolver a página da 2a linha aqui mesmo (determinístico)
+            # e reescreve ela só com "código entre parênteses + página
+            # limpa", descartando o líder de pontos/lixo do meio — dá pro
+            # LLM um último token já inequívoco, em vez de depender dele
+            # separar título/líder-de-pontos/página numa linha "estranha"
+            # que os poucos exemplos do prompt não cobrem.
+            resolved_page = None
+            for cand in reversed(second.split()):
+                resolved_page = fix_page(cand)
+                if resolved_page:
+                    break
+            if resolved_page:
+                close_paren = second.rfind(")")
+                head = second[:close_paren + 1] if close_paren != -1 else second.rsplit(None, 1)[0]
+                second = f"{head} {resolved_page}"
+            premerged.append(f"{raw_lines[i]} {second}")
+            i += 2
+            continue
+        premerged.append(raw_lines[i])
+        i += 1
+    raw_lines = premerged
+
     # rejunta sequências CURTAS de linhas 100% maiúsculas (cabeçalho de
     # categoria que o OCR partiu em 2-3 linhas, ex. "CARACTERISTICAS" /
     # "DE COMPONENTES") — teste incremental, no máx. 3 linhas, pra não

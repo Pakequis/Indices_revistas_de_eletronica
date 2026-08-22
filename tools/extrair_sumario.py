@@ -76,7 +76,7 @@ def main() -> None:
     ap.add_argument("--crop", type=parse_crop, default=None, help="left,top,right,bottom em frações 0-1 da página")
     ap.add_argument("--threshold", type=int, default=140, help="limiar de binarização 0-255 (padrão 140)")
     ap.add_argument("--lang", default="por", help="idioma do tesseract (padrão por)")
-    ap.add_argument("--psm", type=int, default=6, help="modo de segmentação do tesseract (padrão 6)")
+    ap.add_argument("--psm", type=int, default=3, help="modo de segmentação do tesseract (padrão 3 — automático; psm 6 assume bloco uniforme e pode PULAR linhas inteiras em colunas com espaçamento irregular, ver docs/registro-indices.md)")
     ap.add_argument("--debug-dir", type=Path, default=None, help="se passado, salva as imagens intermediárias aí")
     args = ap.parse_args()
 
