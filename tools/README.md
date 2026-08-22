@@ -59,6 +59,32 @@ pacote de idioma `por`, Pillow (Python). Nenhuma dependência nova.
    `docs/plano-extracao-indices.md` (nunca alterar linha existente,
    conferir nome exato das colunas daquele arquivo, etc.).
 
+## Índice em 2 colunas com muito ruído: `ocr_llm_parse.py`
+
+Quando a página de índice tem 2 colunas e o OCR sai com "líder de
+pontos" (....) lido como sequências de letras soltas ("c v r s z") em
+vez de pontos — caso de Circuitos e Informações, por exemplo — o
+`extrair_sumario.py`/`parsear_sumario.py` sozinhos não dão conta bem.
+Pra esse caso existe `tools/ocr_llm_parse.py`, que soma OCR local com
+um LLM local (Ollama, sem gastar tokens de API) pra separar
+título/página e detectar categoria pelos cabeçalhos de seção.
+
+Requer o servidor Ollama no ar (`localhost:11434`) com o modelo
+`qwen2.5:7b-instruct` já baixado — ver a instalação em modo usuário
+(sem sudo/systemd) descrita na memória do projeto ou reinstalar com o
+script de instalação padrão do Ollama caso a máquina tenha mudado.
+
+```
+python3 tools/ocr_llm_parse.py "edicao.pdf" 5 6 7 --out /tmp/saida.tsv
+```
+
+Saída: TSV `Título<TAB>Categoria<TAB>Página`. Ainda erra uma fração
+pequena de páginas genuinamente ambíguas (garboso demais mesmo pro
+LLM) — nesses casos o campo Página fica vazio em vez de um número
+inventado; vale rodar uma conferência por amostragem no resultado antes
+de acrescentar ao `.csv` da revista, como já é prática no resto do
+projeto.
+
 ## Limitações conhecidas (não resolvidas de propósito, pra manter simples)
 
 - Títulos que ocupam duas linhas no índice original viram duas linhas
