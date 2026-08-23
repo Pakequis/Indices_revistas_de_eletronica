@@ -3,7 +3,7 @@
 Scripts pra fazer a primeira passada da extração de índice/sumário
 usando só OCR local (Tesseract), sem gastar tokens de API. Nasceram de
 um teste comparado em 3 casos (Electron, Monitor de Rádio e TV, Saber
-Eletrônica — ver `docs/registro-indices.md` na entrada de 2026-08-21):
+Eletrônica — ver `docs/registro-indices.md`):
 em média **~80% das linhas saem 100% corretas** (título + número de
 página); as outras ficam sinalizadas para conferência.
 
