@@ -85,6 +85,28 @@ inventado; vale rodar uma conferência por amostragem no resultado antes
 de acrescentar ao `.csv` da revista, como já é prática no resto do
 projeto.
 
+## Edição sem página de índice: `gerar_folha_contato.py`
+
+Quando a edição não tem página de índice/sumário nenhuma (ex.:
+Circuito Fechado, Electron 26, Eletrônica Avançada, Revista Eletrônica
+16/17/18), a extração exige ler a edição inteira página a página. Pra
+não gastar uma leitura de imagem por página, `gerar_folha_contato.py`
+monta folhas de contato (grade NxN configurável) a partir das páginas
+renderizadas com `pdftoppm`, escrevendo o número de cada página na
+célula correspondente:
+
+```
+pdftoppm -r 150 -png "edicao.pdf" /tmp/pag
+python3 tools/gerar_folha_contato.py /tmp "pag" --grid 3 --width 900 --out /tmp/folhas
+```
+
+Uma grade 3×3 reduz em ~9x o número de imagens lidas. Use `--width`
+maior (800-900) se o número de página impresso no rodapé ficar
+ilegível na folha — em compensação, cada folha fica maior. **Não
+confiar no número de página impresso pequeno sem conferir**: já
+aconteceu de ler errado a um dígito de distância (6↔8) numa folha
+compacta; na dúvida, abrir a página individual renderizada.
+
 ## Limitações conhecidas (não resolvidas de propósito, pra manter simples)
 
 - Títulos que ocupam duas linhas no índice original viram duas linhas
