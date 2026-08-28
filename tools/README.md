@@ -107,6 +107,32 @@ confiar no número de página impresso pequeno sem conferir**: já
 aconteceu de ler errado a um dígito de distância (6↔8) numa folha
 compacta; na dúvida, abrir a página individual renderizada.
 
+## Curso em fascículos com seções fixas: `extrair_epp.py`
+
+Feito para a **Eletrônica Passo a Passo** (Abril, 1984): curso colecionável
+sem página de sumário, com seções fixas de tarja colorida (`COMPONENTES`,
+`MONTAGEM`, `INSTRUMENTAÇÃO`, `NOÇÕES TEÓRICAS`). Cada artigo abre numa
+página com a tarja no alto + título em caixa-alta + uma frase-chamada em
+itálico; as de continuação repetem a tarja sem título.
+
+```
+python3 tools/extrair_epp.py "revistas/.../epp25.pdf" 25 --dump --no-vlm
+```
+
+O modo `--dump` renderiza as páginas (`pdftoppm`), roda `tesseract -l por` e
+imprime, por página, `PDFnn [Seção] <início do texto OCR>`. A partir desse
+texto dá pra montar o índice: a tarja + a frase-chamada dizem onde cada
+artigo começa, e o título quase sempre sai legível no OCR da página de
+abertura. Sem `--dump` o script tenta montar o índice sozinho (com um
+número de página impresso pela régua contínua `20*N - 11`), mas a detecção
+de "abre artigo × continuação" ainda erra — o `--dump` + montagem manual do
+`data.py` foi o que funcionou bem.
+
+O modelo de visão local `qwen2.5vl:3b` foi testado como desempate para os
+títulos em fonte decorativa que não saem no OCR e **não serve** — alucina
+títulos plausíveis em vez de ler a imagem. Para esses poucos casos, o
+fallback é uma conferência visual de um recorte só das faixas de título.
+
 ## Limitações conhecidas (não resolvidas de propósito, pra manter simples)
 
 - Títulos que ocupam duas linhas no índice original viram duas linhas
