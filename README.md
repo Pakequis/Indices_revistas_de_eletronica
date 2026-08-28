@@ -5,6 +5,15 @@
 Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com.br)
 
 
+## Estatísticas
+
+| Métrica | Quantidade |
+| --- | --- |
+| Títulos indexados | 30 |
+| Edições indexadas | 2.398 |
+| Artigos indexados | 47.957 |
+
+
 - Arquivos .CSV podem ser abertos e editados no Open Office Calc (ou no Excel, tomando cuidado com os delimitadores). 
 
 - Arquivos salvos em UTF-8. Virgulas (,) como separador de campos e aspas (") como delimitador de textos.
@@ -34,3 +43,5 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 - Obrigado Picco!!!
 
 - Alguns índices atualizados por Walter Nunes (APE, Be-a-ba e DCE).
+
+- Diversos índices atualizados de forma automatizada com o Claude (Claude Code), LLMs locais via Ollama (qwen2.5:7b para limpeza de texto, qwen2.5vl:3b para leitura de páginas de índice, llama3.2:3b para tarefas leves) e scripts (pdftoppm, Tesseract OCR, Pillow e Python), a partir dos PDFs digitalizados das edições.
