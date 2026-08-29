@@ -133,6 +133,24 @@ títulos em fonte decorativa que não saem no OCR e **não serve** — alucina
 títulos plausíveis em vez de ler a imagem. Para esses poucos casos, o
 fallback é uma conferência visual de um recorte só das faixas de título.
 
+## Mapa de edições faltantes: `gerar_mapa_edicoes.py`
+
+Não tem a ver com extração de índice — serve pra enxergar, revista por
+revista, quais **edições ainda não têm PDF** no acervo. Gera
+`docs/mapa-edicoes.html` com uma tabela estilo BINGO por revista: célula
+azul = existe o PDF, célula branca = edição a procurar.
+
+```
+python3 tools/gerar_mapa_edicoes.py
+```
+
+Lê só os nomes dos arquivos `.pdf` em `revistas/` (nada é aberto). Rodar
+de novo sempre que a pasta mudar. Revistas por data (Antenna) e por
+biênio (Eletrônica Popular) ficam de fora; séries paralelas Fora de
+Série / Especial não entram (ver `docs/plano-extracao-fora-de-serie.md`).
+O intervalo e os totais conhecidos de cada revista estão na lista `CFG`
+no topo do script — ajustar lá se algum total mudar.
+
 ## Limitações conhecidas (não resolvidas de propósito, pra manter simples)
 
 - Títulos que ocupam duas linhas no índice original viram duas linhas
