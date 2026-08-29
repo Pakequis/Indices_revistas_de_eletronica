@@ -24,6 +24,7 @@ def main():
     ap.add_argument("--grid", type=int, default=2, help="grade NxN por folha (padrão 2)")
     ap.add_argument("--out", required=True, help="pasta de saída das folhas de contato")
     ap.add_argument("--width", type=int, default=500, help="largura de cada célula em pixels")
+    ap.add_argument("--jpg", action="store_true", help="salva as folhas em JPEG (menor)")
     args = ap.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
@@ -59,8 +60,12 @@ def main():
             draw.rectangle([x, y, x + 34, y + 16], fill="yellow")
             draw.text((x + 2, y + 2), label, fill="black", font=font)
 
-        out_path = os.path.join(args.out, f"folha_{sheet_idx // per_sheet + 1:03d}.png")
-        sheet.save(out_path)
+        ext = "jpg" if args.jpg else "png"
+        out_path = os.path.join(args.out, f"folha_{sheet_idx // per_sheet + 1:03d}.{ext}")
+        if args.jpg:
+            sheet.save(out_path, quality=72)
+        else:
+            sheet.save(out_path)
         print(out_path)
 
 
