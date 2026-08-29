@@ -9,9 +9,9 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 
 | Métrica | Quantidade |
 | --- | --- |
-| Títulos indexados | 33 |
-| Edições indexadas | 2.472 |
-| Artigos indexados | 48.510 |
+| Títulos indexados | 36 |
+| Edições indexadas | 2.510 |
+| Artigos indexados | 49.362 |
 
 
 - Arquivos .CSV podem ser abertos e editados no Open Office Calc (ou no Excel, tomando cuidado com os delimitadores). 
