@@ -25,6 +25,17 @@ Transistores para VHF,,37,3,,,Communications Transistor Corp.,
 Transistores para Aplicações Profissionais – Transistores para RF (Transmissão),,38,3,,,Ibrape,
 Transistores para Comutação e Amplificação,,39,3,,,Ibrape,
 Novidades,,40,3,,,Magnetron 400 MHz (Varian); memória de semicondutores (Siemens); bobina toroidal (Dale),
+Luz de Estrela Aciona Fotodiodo,,1,6,,,Nota,
+Tira Zumbido,,3,6,,,Filtro entre toca-disco e amplificador,
+Oscilador de Áudio,,5,6,,"2N2646, AD161",,
+Melhorando o Rádio Velho,,11,6,,,,
+Transistor em Transmissão,,19,6,,,Modulação,
+Transistores de Silício Philco,,22,6,,,Dados técnicos,
+Dicionário de Termos Técnicos,,32,6,,,Inglês / Alemão / Espanhol / Francês,
+Cartas dos Leitores,A. Fanzeres,34,6,,,,
+Indicador Profissional,,36,6,,,,
+Feira Eletrônica,,37,6,,,,
+Como Funciona a F.M.,,39,6,,,Colaboração Mullard Ltd.,
 Editorial,A. Fanzeres,1,7,,,,
 "Entre o Céu e a Terra, Mistérios",,3,7,,,Radiotelescópio NRAO (Green Bank); radar-telescópio,
 Como Funciona o Sistema de Rádio Telescópio,,4,7,,,NRAO,
@@ -88,6 +99,86 @@ Receptor Reflexo,,36,23,,"2N3819, BC109, BF167",,
 Ponta de Prova Usa LED,,37,23,,,Kurz-Kasch LP-575,
 Feira Eletrônica,,38,23,,,Anúncios de leitores,
 Livros,A. Fanzeres,40,23,,,,
+Editorial,A. Fanzeres,1,27,,,,
+Microprocessador,,1,27,,,Nota; início de uma nova onda inovadora na eletrônica,
+Problemas Básicos de Eletrônica,,2,27,,,Continuação; determinação de resistências em paralelo,
+Boletim Técnico Informativo Icotron – Um Circuito MOS-LSI para Multímetros Digitais,,6,27,,,,
+Fonte de Alimentação Estabilizada com Transistor Darlington BDX63,,11,27,,BDX63,"De ""Miniwatt""",
+Teoria e Aplicações dos Diodos Zener,,14,27,,,"De ""Radiorama"" (Selecções de Rádio)",
+Capacitores Cerâmicos de Passagem (Feed-Through),,21,27,,,Icotron,
+Um Sensível Intercomunicador,,22,27,,,"De ""Radiorama""",
+Fonte Comutada para Computador,,26,27,,,BCE; fonte chaveada (SMPS),
+Diodos Emissores de Luz,,29,27,,,Icotron/Ibrape,
+Secção do Estudante – Segunda Avalanche: O Que É e Como Evitá-la,,30,27,,,,
+Retardo de Pulsos III,,32,27,,,Philips T&M Informação; conjuntos PM 5705E/5704E,
+Feira Eletrônica,,34,27,,,Anúncios de leitores,
+Livros,A. Fanzeres,35,27,,,,
+Indicador Profissional,,36,27,,,Guia de firmas de componentes,
+Editorial,A. Fanzeres,1,28,,,,
+Amplificador Integrado para Auto Rádio,,1,28,,TDA2870,Siemens,
+Problemas Básicos de Eletrônica,,2,28,,,Continuação; circuitos complexos série-paralelo,
+Diodos,,8,28,,,Versão adaptada de Selecções de Rádio (Portugal),
+Amplificadores Operacionais,,18,28,,"µA709, µA741",,
+Caixa Mágica,,23,28,,,Jogo matemático (divisibilidade por 9),
+Detector de Fumaça,,25,28,,,Mountain West Alarm Supply Co.,
+Orgão Eletrônico,,26,28,,"AC163, AC126, AC153",Mullard Educational Service,
+Eletro-Medicina,,28,28,,,Analisador de sangue Corning 165/2,
+Equivalência de Circuitos Integrados,,29,28,,,National/Fairchild/Motorola/Signetics/RCA,
+Chrysler Usa Eletrônica,,31,28,,,"Sistema de ignição eletrônica ""Lean Burn""",
+PM 2513 – Alternativa Real para Medidas Analógicas,,33,28,,,Philips; multímetro digital MOS-LSI,
+Receptor Reflexo para Ondas Médias,,35,28,,"AF114, AF124, OC72, OC75",,
+Pisca-Pisca com LED,,38,28,,"2N2646, BC107, TIL209",,
+Feira Eletrônica,,39,28,,,Anúncios de leitores,
+Livros,A. Fanzeres,40,28,,,,
+Editorial,A. Fanzeres,1,29,,,,Junho
+Platinado de Ouro,,1,29,,,"Divisão Motorcraft, Ford",Junho
+Problemas Básicos de Eletrônica,,2,29,,,Continuação; queda de voltagem e correntes em circuito complexo,Junho
+Fonte de Nove Volts,,6,29,,BY126,,Junho
+Milivoltímetro com FET,,7,29,,MPF103,Datatronix / LABO / RPB Eletro-Eletrônica,Junho
+Pré Misturador,,10,29,,,,Junho
+Analisador Dinâmico,,11,29,,"MPF103, 2N3393, 40452",,Junho
+Analisador de Imagens,,11,29,,,Quantimet 720 (Cambridge Instruments),Junho
+Localizador de Metais,,13,29,,"AF134, AF135",,Junho
+Chave Telegráfica Eletrônica,,14,29,,HEP235,,Junho
+Sistema de Controle Remoto,,15,29,,2N3394,Com transceptores da Faixa do Cidadão,Junho
+Sonda Radiotransmissora,,16,29,,,"""Flexiprobe"" (Electrolocation Limited)",Junho
+Separação de Estações,,17,29,,,Interferência Rádio Bonaire x Rádio MEC (800 kHz); antena de radiogoniometria,Junho
+Amplificador Estereofônico 2 x 25W,,19,29,,"BC109C, 40361, 40362, 2N3055",Circuito comercial RST 2001,Junho
+Estação de Satélite Portátil,Duncan Campbell,23,29,,,"Marconi Space and Defence Systems (""Compack""/""Skynet"")",Junho
+Nova Técnica Torna o Alumínio Soldável,Ron Ely,26,29,,,Centro de Pesquisas de Harwell,Junho
+A Eletrônica Aplicada ao Controle Rodoviário,David Rolfe,27,29,,,Electronic Engineering (Londres),Junho
+Criada Primeira Técnica para Programar Microcomputadores,,29,29,,,Computer Analysis and Programmers (UK); MicroCobol; DEC PDP-11,Junho
+A Indústria Pirata de Fitas Magnéticas com os Dias Contados,,29,29,,,EMI Tape; marca d'água,Junho
+Sensores de Ar,,30,29,,,Sola Basic International; série LS,Junho
+Segurança,,31,29,,,Detector de Explosivos PD2 (Pye Dynamics),Junho
+Medidor Eletrônico,,32,29,,,"""Mekometer"" (Comrad Electronic Equipment)",Junho
+MOS Substitui Cristal,,33,29,,S 187,Siemens; sintetizador,Junho
+Amplificador Darlington,,34,29,,,,Junho
+Tiristores para Frequências Acima de 50 Hz,,35,29,,,Siemens,Junho
+Comunicação com Cabo Coaxial,,36,29,,,"Caracas, Venezuela; Siemens",Junho
+Registrador de Acontecimentos,,37,29,,,Siemens Simatic MD31,Junho
+Indicador Profissional,,38,29,,,Guia de firmas de componentes,Junho
+Feira Eletrônica,,39,29,,,Anúncios de leitores,Junho
+Livros,A. Fanzeres,40,29,,,,Junho
+Editorial,A. Fanzeres,1,33,,,,Dezembro
+Intervalador,,1,33,,"BC107, 2N1711, MCR2604",,Dezembro
+Tabela Prática – Normograma da Lei de Ohm,,3,33,,,,Dezembro
+Intervalador para Limpar Parabrisas,,4,33,,"2N2646, MCR2604",Transistor unijunção + SCR,Dezembro
+Neon – Um Teste Barato,,6,33,,NE-2,Medidor de resistências com lâmpada neon,Dezembro
+Como Calcular Bobinas,,7,33,,,Calculador de bobinas da ARRL,Dezembro
+Unidade de Mostra Gráfica,,10,33,,,Registrador/plotter gráfico,Dezembro
+Problemas Básicos de Eletrônica,,11,33,,,Circuito delta; resistência total,Dezembro
+Medição de pH,,14,33,,,Siemens; elétrodos REDOX,Dezembro
+Circuito Tanque,,15,33,,,Estágio de saída de transmissor,Dezembro
+Chaves Xcelite,,18,33,,,Divulgação,Dezembro
+Capacitores Eletrolíticos de Alta Confiabilidade,,19,33,,,Icotron; norma IEC 103,Dezembro
+Desfile de Circuitos Philips – Radiofone 06RF485 e Receptor 06RB385,,20,33,,,Philips do Brasil; esquema de serviço,Dezembro
+Propagação das Ondas de Rádio,,22,33,,,"Ionosfera, ciclo solar, zona de silêncio, radiotelescopia",Dezembro
+Relés Schrack do Brasil,,29,33,,,Catálogo de relés,Dezembro
+Transmissor para Faixa do Cidadão,,35,33,,,"300 mW, modulação de 100%",Dezembro
+Feira Eletrônica,,37,33,,,Anúncios de leitores,Dezembro
+Indicador Profissional,,39,33,,,Guia de firmas de componentes,Dezembro
+Livros,A. Fanzeres,40,33,,,,Dezembro
 Introdução,A. Fanzeres,2,Especial,,,"Livro ""Transistores (sem teoria)"" (Editora Signo, 1ª edição)",
 Capítulo I – O Transistor,A. Fanzeres,3,Especial,,,"Livro ""Transistores (sem teoria)"" (Editora Signo, 1ª edição)",
 Capítulo II – Configuração dos Circuitos,A. Fanzeres,4,Especial,,,"Livro ""Transistores (sem teoria)"" (Editora Signo, 1ª edição)",
