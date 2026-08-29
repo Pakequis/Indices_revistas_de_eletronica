@@ -11,7 +11,8 @@ A leitura e feita so pelos nomes dos arquivos .pdf; nada e aberto. O
 intervalo de cada revista vai de `inicio` ate o maior entre o total
 conhecido (coluna 3 de CFG) e a maior edicao encontrada na pasta.
 Revistas por data (Antenna) ou por bienio (Eletronica Popular) ficam de
-fora. Series paralelas Fora de Serie / Especial nao entram.
+fora. As series paralelas Fora de Serie / Especial entram como titulos
+proprios (via o 7o campo `include` do CFG).
 """
 import os
 import re
@@ -26,7 +27,8 @@ NUM = re.compile(r"\d+(?:-\d+)*")
 COLS = 20  # celulas por linha na grade
 
 # pasta em revistas/ -> (titulo, total conhecido, edicao inicial,
-#                        [regex de arquivos a ignorar], {arquivo: edicao})
+#                        [regex de arquivos a ignorar], {arquivo: edicao}
+#                        [, regex de arquivos a INCLUIR (so esses contam)])
 CFG = [
     ("ABC da Eletronica", "ABC da Eletrônica", 20, 1, [], {}),
     ("Aprendendo e Praticando Eletronica", "Aprendendo e Praticando Eletrônica", 85, 1, [], {}),
@@ -67,15 +69,23 @@ CFG = [
     ("Saber Eletronica", "Saber Eletrônica", 475, 1,
         [r"fora de serie", r"fora de série", r"^rsee", r"^indice\.pdf$"], {}),
     ("Tecnico Reparador", "Técnico Reparador", 5, 1, [], {}),
+    # sub-séries paralelas (CSV próprio) — só contam os arquivos do `include`
+    ("Eletronica Total", "Eletrônica Total — Fora de Série", 3, 1, [], {}, r"\bfs\d"),
+    ("Saber Eletronica", "Saber Eletrônica — Especial", 11, 1, [], {}, r"^rsee\d"),
+    ("Saber Eletronica", "Saber Eletrônica — Fora de Série", 28, 1, [], {},
+        r"fora de serie|fora de série"),
 ]
 
 
-def editions_present(folder, excludes, special):
+def editions_present(folder, excludes, special, include=None):
     d = os.path.join(REV, folder)
     have = set()
     exq = [re.compile(p, re.I) for p in excludes]
+    inc = re.compile(include, re.I) if include else None
     for f in sorted(os.listdir(d)):
         if not f.lower().endswith(".pdf"):
+            continue
+        if inc and not inc.search(f):
             continue
         if any(p.search(f) for p in exq):
             continue
@@ -96,8 +106,8 @@ def anchor(title):
     return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
 
 
-def section_html(folder, title, total, start, excludes, special):
-    have = editions_present(folder, excludes, special)
+def section_html(folder, title, total, start, excludes, special, include=None):
+    have = editions_present(folder, excludes, special, include)
     n = max([total] + list(have)) if have else total
     nums = list(range(start, n + 1))
     missing = [x for x in nums if x not in have]
@@ -192,8 +202,10 @@ a revista tenha começado em 1 nem terminado nesse número. Algumas edições
 marcadas como faltantes existem só dentro de PDFs-coletânea/retrospectiva
 (ex.: Saber Eletrônica 25 e 26, Rádio-TV Técnico 22 e 27) e continuam
 brancas aqui porque não têm arquivo próprio. Antenna (organizada por data)
-e Eletrônica Popular (por biênio) ficam de fora. Séries paralelas Fora de
-Série / Especial não entram — ver <code>docs/plano-extracao-fora-de-serie.md</code>.
+e Eletrônica Popular (por biênio) ficam de fora. As três sub-séries
+paralelas (Eletrônica Total — Fora de Série, Saber Eletrônica — Especial e
+Saber Eletrônica — Fora de Série) entram como títulos próprios, com a
+numeração da própria sub-série — ver <code>docs/plano-extracao-fora-de-serie.md</code>.
 </footer>
 """
     with open(OUT, "w", encoding="utf-8") as fh:
