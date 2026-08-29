@@ -507,6 +507,70 @@ Adaptação da faixa de 10 metros no Cobra 148GTL,,75,5,,,Idéias Práticas,1989
 Toc-toc simples para o carro,,76,5,,,Idéias Práticas,1989
 Como testar diodos de MAT,,76,5,,,Idéias Práticas,1989
 Miniventilador,,76,5,,,Idéias Práticas,1989
+Fonte Especial de 13V x 5A para Toca-Fitas,,3,6,,,,1989
+Calendário Eletrônico,,3,6,,,,1989
+Mixer de 4 Canais,,4,6,,,,1989
+Contador de Passagem Inteligente,,5,6,,,,1989
+Cruzador,,6,6,,,,1989
+Audioface para o MSX,,6,6,,,,1989
+Cronômetro Digital,,8,6,,,,1989
+Carregador de Nicad com Fonte para Rádio,,9,6,,,,1989
+"Fonte Estabilizada para 1,5A",,9,6,,,,1989
+Cronômetro para Fotógrafo,,10,6,,,,1989
+Intercomunicador Óptico,,12,6,,,,1989
+Alarme de Toque ou Aproximação,,13,6,,,,1989
+Amplificador de 5W,,13,6,,,,1989
+Amplificador de 500W RMS,,14,6,,,,1989
+Eletrossenha,,15,6,,,,1989
+Megôhmetro a Led,,15,6,,,,1989
+Semáforo com Led,,16,6,,,,1989
+Seqüencial com Programação Automática,,16,6,,,,1989
+Receptor de Conversão Direta,,17,6,,,,1989
+Adaptador para 200MΩ com Multímetro Comum,,18,6,,,,1989
+Fonte de Laboratório,,18,6,,,,1989
+Super Equalizador,,19,6,,,,1989
+Velocímetro Digital,,20,6,,,,1989
+Receptor Regenerativo de Ondas Médias,,21,6,,,,1989
+Sistema de Som Biamplificado para Carro,,22,6,,,,1989
+Gerador de Funções,,23,6,,,,1989
+Chave Codificada Digital,,24,6,,,,1989
+Copiador de Programas,,24,6,,,,1989
+Proteção para o Lar,,26,6,,,,1989
+Relógio Digital,,27,6,,,,1989
+Conta-Giros Digital,,27,6,,,,1989
+Receptor para 14MHz (20m),,28,6,,,,1989
+Controle Remoto por Assobio,,28,6,,,,1989
+Controle Remoto Seqüencial,,29,6,,,,1989
+Booster para 88-108MHz,,30,6,,,,1989
+Telessimulador,,41,6,,,,1989
+VU Incandescente,,41,6,,,,1989
+Espião Telefônico,,42,6,,,,1989
+Temporizador para o CS5 da Gradiente,,43,6,,,,1989
+Isqueiro Eletrônico,,43,6,,,,1989
+Alarme Temporizado,,44,6,,,,1989
+Medidor Digital de pH,,45,6,,,,1989
+Despertador Solar,,45,6,,,,1989
+Repetidor de Tiro para Atary ou Micros,,46,6,,,,1989
+Termômetro Eletrônico,,48,6,,,,1989
+Órgão Sintetizador Básico com Acorde,,48,6,,,,1989
+Transformação de Escala para o Multímetro Icel,,49,6,,,,1989
+Proteção para Rádio PX contra Excesso de Tensão,,50,6,,,,1989
+MSX Telemodem,,50,6,,,,1989
+No-Break para Micros,,52,6,,,,1989
+Expansão de RAM para Sinclair,,52,6,,,,1989
+Interface Programável,,53,6,,,,1989
+Circuito de Referência de Tensão,,54,6,,,,1989
+Controller - Interface para TK-90X,,54,6,,,,1989
+Timer para Três Horas e Meia,,56,6,,,,1989
+Potente Transmissor de FM,,57,6,,,,1989
+Sistema de Monitoração por Microcomputador,,58,6,,,,1989
+Sensor de Proximidade,,60,6,,,,1989
+Capacímetro Digital,,61,6,,,,1989
+Programa para Cálculo de Antenas Helicoidais,,61,6,,,,1989
+Teste de Componentes,,63,6,,,Idéias Práticas,1989
+Padrão de Tempo Preciso e Barato,,63,6,,,Idéias Práticas,1989
+Sirene Sinalizadora,,64,6,,,,1989
+Gerador de Padrões para TV,,64,6,,,,1989
 Controle remoto proporcional,,3,7,,,,1990
 Central de som profissional,,5,7,,,,1990
 Relógio 4033,,6,7,,,,1990
@@ -1558,6 +1622,46 @@ Fone de ouvido estéreo sem fio,,53,24,,,,Agosto/1998
 Soluções alternativas em reparações,,56,24,,,Matéria,Agosto/1998
 Errata Fora de Série nº 23,,59,24,,,,Agosto/1998
 Práticas de service,,60,24,,,,Agosto/1998
+Simples Nível Eletrônico,,5,25,,,,Fevereiro/1999
+Alarme Doméstico,,5,25,,,,Fevereiro/1999
+Timer,,6,25,,,,Fevereiro/1999
+Monitor de Fusível Aberto,,7,25,,,,Fevereiro/1999
+Multigerador de Sinais Sonoros Sequencial,,7,25,,,,Fevereiro/1999
+Transmissor de FM de 100 W,,8,25,,,,Fevereiro/1999
+Amplificador de Antena,,10,25,,,,Fevereiro/1999
+Fonte de 12 V x 5 A,,11,25,,,,Fevereiro/1999
+Aparelho de Condutividade para Água,,11,25,,,,Fevereiro/1999
+Controle Remoto Infravermelho,,12,25,,,,Fevereiro/1999
+Monitor de Comutadores de Três Vias,,13,25,,,,Fevereiro/1999
+Protetor de Circuitos TTL,,14,25,,,,Fevereiro/1999
+Cerca Eletrônica,,14,25,,,,Fevereiro/1999
+Receptor de VHF,,15,25,,,,Fevereiro/1999
+Teste Simples de Transistores,,16,25,,,,Fevereiro/1999
+Mike de Ganho,,17,25,,,,Fevereiro/1999
+Transmissor de FM de 35 W,,17,25,,,,Fevereiro/1999
+Fonte de 12 V x 5 A,,18,25,,,,Fevereiro/1999
+Amplificador de 6 W,,19,25,,,,Fevereiro/1999
+Efeito Abre e Fecha,,19,25,,,,Fevereiro/1999
+Painel Visual para Motos e Carros,,20,25,,,,Fevereiro/1999
+Calendário Eletrônico,,21,25,,,,Fevereiro/1999
+Iluminação de Emergência com Fluorescente,,23,25,,,,Fevereiro/1999
+Efeito Luminoso para Natal,,24,25,,,,Fevereiro/1999
+Irrigador Eletrônico,,25,25,,,,Fevereiro/1999
+Indicador para Linha Telefônica,,26,25,,,,Fevereiro/1999
+Conversor Luz-Frequência,,26,25,,,,Fevereiro/1999
+Dois Efeitos de Luz para Aparelhos de Som,,27,25,,,,Fevereiro/1999
+Alarme para 110/220 V,,28,25,,,,Fevereiro/1999
+Proteção de Sobretensão em Pontes Retificadoras de Potência,,30,25,,,,Fevereiro/1999
+Alarme para o Lar,,31,25,,,,Fevereiro/1999
+Sensor Fotoelétrico,,31,25,,,,Fevereiro/1999
+Decodificador/Driver de 7 Segmentos com Interface Serial,,32,25,,,Projetos de Fábrica,Fevereiro/1999
+Comparador de Janela,,33,25,,,Projetos de Fábrica,Fevereiro/1999
+Controle de Velocidade para Motores DC,,34,25,,,Projetos de Fábrica,Fevereiro/1999
+Seguidor - Inversor de Alta Frequência,,35,25,,,Projetos de Fábrica,Fevereiro/1999
+Drive para MOS-SCR,,37,25,,,Projetos de Fábrica,Fevereiro/1999
+Driver para Servo,,38,25,,,Projetos de Fábrica,Fevereiro/1999
+Práticas de Service - Fora de Série,,39,25,,,,Fevereiro/1999
+Informações Úteis para o Projetista,,55,25,,,,Fevereiro/1999
 Pistola desmagnetizadora de cinescópios,,4,26,,,,Agosto/1999
 Monitor/controlador de nível de reservatórios,,4,26,,,,Agosto/1999
 Acionamento por chamada telefônica,,6,26,,,,Agosto/1999
