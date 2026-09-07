@@ -69,6 +69,20 @@ CFG = [
     ("Saber Eletronica", "Saber Eletrônica", 475, 1,
         [r"fora de serie", r"fora de série", r"^rsee", r"^indice\.pdf$"], {}),
     ("Tecnico Reparador", "Técnico Reparador", 5, 1, [], {}),
+    # títulos novos — PDFs do backlog baixados em 2026-09-07, índice ainda
+    # pendente. "Antenna 2020" (webzine mensal, por ano-mês) fica de fora,
+    # como a Antenna clássica.
+    ("CTA Eletronica", "CTA Eletrônica", 36, 1, [], {}),
+    ("Mecatronica Facil", "Mecatrônica Fácil", 55, 1, [], {}),
+    ("Radio e Eletronica", "Rádio e Eletrônica (revista, Fittipaldi)", 9, 1, [], {}),
+    ("QTC antiga", "QTC (antiga)", 211, 1, [], {}),
+    ("QTC nova", "QTC (nova)", 61, 1, [], {}),
+    ("Revista Radiotecnica", "Revista Radiotécnica", 166, 1, [], {}),
+    ("Os 80 em Foco", "Os 80 em Foco", 92, 1, [], {}),
+    ("Revista Radio", "Revista Rádio", 24, 1, [], {}),
+    ("Eletronica Montagem e Experimentos", "Eletrônica Montagem e Experimentos", 6, 1, [], {}),
+    ("Radio Circuito Bandeirante", "Rádio Circuito Bandeirante", 2, 1, [], {}),
+    ("Semicondutores", "Revista Semicondutores", 1, 1, [], {}),
     # sub-séries paralelas (CSV próprio) — só contam os arquivos do `include`
     ("Eletronica Total", "Eletrônica Total — Fora de Série", 3, 1, [], {}, r"\bfs\d"),
     ("Saber Eletronica", "Saber Eletrônica — Especial", 11, 1, [], {}, r"^rsee\d"),
@@ -94,6 +108,8 @@ def editions_present(folder, excludes, special, include=None):
             continue
         stem = os.path.splitext(f)[0]
         stem = re.sub(r"^Elektor 1 ", "", stem)  # tira o marcador de serie
+        # "Os 80 em Foco 65" -> senao o NUM pega o "80" do titulo
+        stem = re.sub(r"^Os 80 em Foco ", "", stem)
         m = NUM.search(stem)
         if not m:
             continue
@@ -201,8 +217,8 @@ conhecido da revista e a maior edição presente na pasta — não garante que
 a revista tenha começado em 1 nem terminado nesse número. Algumas edições
 marcadas como faltantes existem só dentro de PDFs-coletânea/retrospectiva
 (ex.: Saber Eletrônica 25 e 26, Rádio-TV Técnico 22 e 27) e continuam
-brancas aqui porque não têm arquivo próprio. Antenna (organizada por data)
-e Eletrônica Popular (por biênio) ficam de fora. As três sub-séries
+brancas aqui porque não têm arquivo próprio. Antenna e Antenna 2020
+(organizadas por data) e Eletrônica Popular (por biênio) ficam de fora. As três sub-séries
 paralelas (Eletrônica Total — Fora de Série, Saber Eletrônica — Especial e
 Saber Eletrônica — Fora de Série) entram como títulos próprios, com a
 numeração da própria sub-série — ver <code>docs/plano-extracao-fora-de-serie.md</code>.
