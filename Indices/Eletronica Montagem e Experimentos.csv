@@ -1,0 +1,6 @@
+Artigo:,Autor:,Página,Edição:,Categoria:,Componentes:,Notas:,Data:
+"Sistema binário - Portas AND, NAND e NOT",,4,6,TEORIA,,,
+Comprovação de portas,,6,6,EXPERIMENTOS,,Verificação de circuitos lógicos integrados na placa de protótipos,
+Oscilador com portas NAND,,8,6,DESENHO EXPERIMENTAL,,Oscilador de onda quadrada com integrado CMOS; usado depois como sinal de relógio,
+Controle para duas lâmpadas de 12 V,,14,6,MÓDULO,,"Ref. VA006/97, ficha MA06; acende uma lâmpada quando a outra apaga",
+Alimentação fixa positiva,,18,6,MÓDULO,,"Ref. VB006/97, ficha MB06; estabilizador de tensão contínua positiva de 5 a 12 V",
