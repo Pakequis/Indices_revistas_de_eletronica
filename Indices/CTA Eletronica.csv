@@ -1,26 +1,390 @@
 Artigo:,Autor:,Página,Edição:,Categoria:,Componentes:,Notas:,Data:
 Editorial,,2,1,,,Apresentação da revista,Dezembro de 1995
-Lâmpada em série profissional,Francisco A. de Paula,3,1,Montagem do Mês,,Circuito de proteção para bancada; aplicação detalhada na edição seguinte,Dezembro de 1995
-Televisor Sony KV-2959T (chassi AA-1),,10,1,Lançamentos,,Análise do lançamento e do processamento de sinais,Dezembro de 1995
-Videocassete HI-FI Sharp VC-1499B,,16,1,Lançamentos,,Vídeo de 6 cabeças rotativas e áudio HI-FI,Dezembro de 1995
-Teoria x Prática - Júnior,,22,1,Teoria x Prática,,Exercícios de localização de defeito por tensões nos circuitos,Dezembro de 1995
+Lâmpada em série profissional,Francisco A. de Paula,3,1,Montagem do Mês,,Circuito de proteção para bancada,Dezembro de 1995
+Televisor Sony KV-2959T (chassi AA-1),,10,1,Lançamento,,,Dezembro de 1995
+Videocassete HI-FI Sharp VC-1499B,,16,1,Lançamento,,Vídeo de 6 cabeças rotativas e áudio HI-FI,Dezembro de 1995
+Teoria x Prática - Júnior,,22,1,Teoria x Prática,,,Dezembro de 1995
 Croma em televisão,,24,1,Teoria,,,Dezembro de 1995
 Teoria x Prática - Profissional,,32,1,Teoria x Prática,,,Dezembro de 1995
 Fonte chaveada (JVC-641),,34,1,Teoria,,Teoria completa da fonte chaveada,Dezembro de 1995
 Teoria x Prática - Expert,,42,1,Teoria x Prática,,,Dezembro de 1995
 Notícias,,46,1,Diversos,,,Dezembro de 1995
-Desafio Eletrônico,,47,1,Diversos,,Concurso ICEL-CTA (osciloscópio e multímetro),Dezembro de 1995
+Desafio Eletrônico,,47,1,Diversos,,Concurso ICEL-CTA,Dezembro de 1995
 Rádio gravador Sanyo M-7700F,Estanislau E. Pereira e Emerson dos Santos Rosa,48,1,Reparação - Áudio,,"FM não funciona, só chiado",Dezembro de 1995
 System Samsung SCM-6100,Estanislau E. Pereira e Marcelo Dias de Oliveira,49,1,Reparação - Áudio,,Som desaparece intermitentemente,Dezembro de 1995
-Sharp SG-220,Marcelo D. de Oliveira e Mário P. Pinheiro,50,1,Reparação - Áudio,,Grava distorcido e com baixa intensidade,Dezembro de 1995
+System Sharp SG-220,Marcelo D. de Oliveira e Mário P. Pinheiro,50,1,Reparação - Áudio,,Grava distorcido e com baixa intensidade,Dezembro de 1995
 Auto rádio toca-fitas Bosch Rio de Janeiro PLL-1,,51,1,Reparação - Áudio,,Sem som no canal R,Dezembro de 1995
 Televisor Philco PC-2004 (CPH-02),Marcelo Dias de Oliveira,52,1,Reparação - TV,,Sem brilho; som normal,Dezembro de 1995
 Televisor Philco PC-2027U,Marcelo Dias de Oliveira e Emerson dos S. Rosa,53,1,Reparação - TV,,Não tem cor,Dezembro de 1995
 Televisor Sharp TVC-1440B,Carlos Oliveira Borges Filho e Mário P. Pinheiro,54,1,Reparação - TV,,Televisor não funciona,Dezembro de 1995
 Videocassete JVC 641,Carlos Oliveira Borges e Mário P. Pinheiro,56,1,Reparação - Vídeo,,Não funciona; display não acende,Dezembro de 1995
-Videocassete Sharp VC-762B,Marcelo Dias de Oliveira,58,1,Reparação - Vídeo,,"Trepidação de som no final da fita, principalmente em EP",Dezembro de 1995
+Videocassete Sharp VC-762B,Marcelo Dias de Oliveira,58,1,Reparação - Vídeo,,Trepidação de som no final da fita,Dezembro de 1995
 Videocassete Sharp VC-762,Marcelo Dias de Oliveira,59,1,Reparação - Vídeo,,Não grava; imagem escura,Dezembro de 1995
-Automóvel Mazda Protegé com injeção eletrônica,,60,1,Reparação - Autos,,Motor só funciona enquanto a chave de ignição está acionada; inclui guia de diagnóstico rápido em injeção eletrônica,Dezembro de 1995
-"Grande Avaliação: Eletrônica, Áudio/Vídeo, Automação",,62,1,Diversos,,Avaliação de currículos e profissionais da CTA,Dezembro de 1995
+Automóvel Mazda Protegé com injeção eletrônica,,60,1,Reparação - Autos,,Motor só funciona com a chave de ignição acionada,Dezembro de 1995
+"Grande Avaliação de Eletrônica, Áudio/Vídeo e Automação",,62,1,Diversos,,,Dezembro de 1995
 "Código de Defesa do Consumidor: orçamentos, quanto cobrar?",,63,1,Diversos,,,Dezembro de 1995
 Testemunho: de arquiteto a técnico em eletrônica,,64,1,Diversos,,Depoimento de leitor na contracapa,Dezembro de 1995
+Fonte de alimentação ajustável,,5,2,Montagem do Mês,,Fonte simétrica ajustável com voltímetro digital,Janeiro de 1996
+Utilização da lâmpada em série na manutenção - Parte I,,12,2,Teoria,,,Janeiro de 1996
+Teoria x Prática - Júnior,,24,2,Teoria x Prática,,,Janeiro de 1996
+Croma de televisão - Parte II,,26,2,Teoria,,A subportadora de cor,Janeiro de 1996
+Teoria x Prática - Profissional,,34,2,Teoria x Prática,,,Janeiro de 1996
+Combinado Philco TV/VCR PVT-1410/2010,,36,2,Lançamento,,,Janeiro de 1996
+Teoria x Prática - Expert,,44,2,Teoria x Prática,,,Janeiro de 1996
+Desafio Eletrônico,,48,2,Diversos,,Solução do pré-amplificador Philips; promoção ICEL-CTA,Janeiro de 1996
+System Gradiente DS-10,Manuel S. da Silva Filho,50,2,Reparação - Áudio,,Motores do toca-discos e tape-deck variam de rotação,Janeiro de 1996
+Rádio gravador Sanyo C12MKII,"Estanislau E. P. Oliveira, Emerson dos Santos Rosa e Mário P. Pinheiro",51,2,Reparação - Áudio,,Não funciona AM e FM,Janeiro de 1996
+System Sharp SG-110B,Marcelo Dias de Oliveira e Mário P. Pinheiro,52,2,Reparação - Áudio,,Sem som no canal L,Janeiro de 1996
+System Philco PCS-30,Marcelo Dias de Oliveira e Paulo Daniel,53,2,Reparação - Áudio,,Não funciona,Janeiro de 1996
+Televisor Philco PC-2013U (CPH-02),Estanislau E. P. Oliveira,54,2,Reparação - TV,,Não funciona; produz ruído inicial,Janeiro de 1996
+Televisor Mitsubishi TC-2030,Emerson dos Santos Rosa e Estanislau E. P. Oliveira,55,2,Reparação - TV,,Não funciona,Janeiro de 1996
+Televisor Sharp C-2006A,"Paulo Daniel, Estanislau E. P. Oliveira e Mário P. Pinheiro",56,2,Reparação - TV,,Aparelho não funciona,Janeiro de 1996
+Televisor Mitsubishi TC-2020,Marcelo Dias de Oliveira e Mário P. Pinheiro,57,2,Reparação - TV,,Cores granuladas,Janeiro de 1996
+Videocassete Philco PVC-5000,Estanislau E. P. Oliveira e Emerson dos Santos Rosa,58,2,Reparação - Vídeo,,Não sintoniza canais,Janeiro de 1996
+Videocassete Panasonic G-21,,59,2,Reparação - Vídeo,,Interferências na cena ao ligar o aparelho frio,Janeiro de 1996
+Videocassete Philco PVC-5400,Estanislau E. P. Oliveira,60,2,Reparação - Vídeo,,Não funciona; acende o display,Janeiro de 1996
+Videocassete National/Panasonic PV-1311,José Pereira de Souza,61,2,Reparação - Vídeo,,Às vezes vai para o modo STOP,Janeiro de 1996
+"Grande Avaliação de Eletrônica, Áudio/Vídeo e Automação",,62,2,Diversos,,,Janeiro de 1996
+A produtividade na Assistência Técnica - Parte 1,,63,2,Diversos,,,Janeiro de 1996
+Acontece,,66,2,Diversos,,Cobertura do coquetel de lançamento da revista,Janeiro de 1996
+VU de lâmpadas,,5,3,Montagem do Mês,,,Fevereiro de 1996
+System Philco PMD-200,,12,3,Lançamento,,,Fevereiro de 1996
+Teoria x Prática - Júnior,,20,3,Teoria x Prática,,,Fevereiro de 1996
+Croma de televisão - Parte III,,22,3,Teoria,,,Fevereiro de 1996
+Teoria x Prática - Profissional,,34,3,Teoria x Prática,,,Fevereiro de 1996
+Utilização da lâmpada em série na manutenção - Parte II,,36,3,Teoria,,,Fevereiro de 1996
+Seção do leitor,,40,3,Diversos,,,Fevereiro de 1996
+Teoria x Prática - Expert,,42,3,Teoria x Prática,,,Fevereiro de 1996
+"Grande Avaliação de Eletrônica, Áudio e Vídeo",,44,3,Diversos,,,Fevereiro de 1996
+Desafio Eletrônico,,46,3,Diversos,,,Fevereiro de 1996
+Tape-deck Gradiente D475,Marcelo Dias de Oliveira e Emerson dos Santos Rosa,48,3,Reparação - Áudio,,Não realiza funções,Fevereiro de 1996
+Compact disc Gradiente CDR-AT (carrossel),Carlos O. Borges,50,3,Reparação - Áudio,,Aparelho não funciona,Fevereiro de 1996
+Televisor Philips 20CN4465,Estanislau E. P. Oliveira e Emerson dos Santos Rosa,52,3,Reparação - TV,,Sintoniza com chuviscos,Fevereiro de 1996
+Televisor Telefunken 16C3150,Estanislau E. P. Oliveira,53,3,Reparação - TV,,A parte esquerda da tela fica escura,Fevereiro de 1996
+Televisor Sharp C-2199,,54,3,Reparação - TV,,"Ao ligar, emite ruídos pausados; após 30 s o som funciona, mas não tem brilho",Fevereiro de 1996
+Televisor Philco PC-2025,Estanislau E. P. Oliveira e Emerson dos Santos Rosa,55,3,Reparação - TV,,"Imagem trêmula e serrilhada, com ruído no som",Fevereiro de 1996
+Videocassete Samsung VM-1260,Carlos O. B. Filho e Mário P. Pinheiro,56,3,Reparação - Vídeo,,Funções na tela e display normais; capstan não gira,Fevereiro de 1996
+Videocassete Philco PVC-4000,Manoel S. S. Filho e Mário P. Pinheiro,57,3,Reparação - Vídeo,,Capstan e cilindro não giram,Fevereiro de 1996
+Videocassete Philco PVC-5000,Manoel S. S. Filho,58,3,Reparação - Vídeo,,"Em PLAY, ao acionar STOP realiza outras funções",Fevereiro de 1996
+Videocassete Philco PVC-5400,Estanislau E. P. Oliveira,59,3,Reparação - Vídeo,,"Não reproduz imagem da fita, só o sintonizador",Fevereiro de 1996
+A produtividade na Assistência Técnica,,63,3,Diversos,,,Fevereiro de 1996
+Acontece,,66,3,Diversos,,,Fevereiro de 1996
+Super teste e pesquisador de som,,5,4,Montagem do Mês,,,Março de 1996
+Teoria x Prática - Júnior,,18,4,Teoria x Prática,,,Março de 1996
+Combinado Philco TV/VCR PVT-1410/2010,,20,4,Lançamento,,,Março de 1996
+Teoria x Prática - Profissional,,28,4,Teoria x Prática,,,Março de 1996
+Croma de televisão - Parte IV,,30,4,Teoria,,,Março de 1996
+Teoria x Prática - Expert,,40,4,Teoria x Prática,,,Março de 1996
+Seção do leitor,,42,4,Diversos,,,Março de 1996
+"Avaliação Geral de Eletrônica, Áudio e Vídeo",,44,4,Diversos,,,Março de 1996
+Desafio Eletrônico,,46,4,Diversos,,,Março de 1996
+Toca-discos Polyvox PM-5000,Elso da Silva,48,4,Reparação - Áudio,,Prato com rotação muito rápida,Março de 1996
+System CCE SS-7500,Estanislau E. P. Oliveira e Paulo Daniel S. Rodrigues,49,4,Reparação - Áudio,,Som com distorção,Março de 1996
+3x1 Sharp SG-220,,50,4,Reparação - Áudio,,Tranco na parte mecânica ao ligar,Março de 1996
+Rádio-gravador CCE MS-10,Manoel S. S. Filho,51,4,Reparação - Áudio,,"Liga, mas não tem som",Março de 1996
+Televisor Sharp C-2006,Manoel S. S. Filho e Mário P. Pinheiro,52,4,Reparação - TV,,Não funciona,Março de 1996
+Televisor Philips GL-1010,Manoel S. S. Filho,53,4,Reparação - TV,,Não funciona; faz apenas um ruído inicial,Março de 1996
+Televisor Telefunken TVC412 (chassi 802),,54,4,Reparação - TV,,Funciona normalmente,Março de 1996
+Televisor Semp Toshiba TVC-100CR,,55,4,Reparação - TV,,Defeito intermitente,Março de 1996
+Videocassete Panasonic NV-G21,,56,4,Reparação - Vídeo,,"Reproduz bem, mas a gravação apresenta uma faixa correndo",Março de 1996
+Videocassete Philco PVC-7400,,57,4,Reparação - Vídeo,,"Ao colocar a fita, após dois segundos o aparelho desliga",Março de 1996
+Videocassete Panasonic PV-1360,,58,4,Reparação - Vídeo,,Imagem e som tremidos,Março de 1996
+Videocassete Sharp VC-762,,59,4,Reparação - Vídeo,,,Março de 1996
+Osciloscópio Kenwood CS-4035,,60,4,Reparação - Osciloscópio,,Acende a lâmpada ON mas não aparece o traço,Março de 1996
+Fonte teste para VCR,,6,5,Montagem do Mês,,,Abril de 1996
+Teoria x Prática - Júnior,,18,5,Teoria x Prática,,,Abril de 1996
+Fonte chaveada Philco - chassi CPH05,,20,5,Teoria,,,Abril de 1996
+Televisor Philco chassi CPH05,,24,5,Lançamento,,,Abril de 1996
+Teoria x Prática - Profissional,,28,5,Teoria x Prática,,,Abril de 1996
+Croma de televisão - Parte V,,30,5,Teoria,,,Abril de 1996
+Teoria x Prática - Expert,,40,5,Teoria x Prática,,,Abril de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,42,5,Diversos,,,Abril de 1996
+Desafio Eletrônico,,46,5,Diversos,,,Abril de 1996
+System Philco PSS-201,Estanislau E. P. Oliveira,48,5,Reparação - Áudio,,Não funciona; nem acende o painel,Abril de 1996
+System Sharp SG-30B,Marcelo Dias de Oliveira e Mário P. Pinheiro,49,5,Reparação - Áudio,,Não funciona rádio AM e FM,Abril de 1996
+Rádio Motorádio RPF-M41,Mário P. Pinheiro,50,5,Reparação - Áudio,,"Funciona bem, mas o consumo de pilhas está muito alto",Abril de 1996
+Amplificador Polyvox AP-500,,51,5,Reparação - Áudio,,Som distorce em um dos canais,Abril de 1996
+Televisor Philips 14GL1310,"Afonso Pereira, Marcelo Dias de Oliveira e Mário P. Pinheiro",52,5,Reparação - TV,,Não funciona,Abril de 1996
+Televisor CCE HPS-2050,Mário P. Pinheiro,53,5,Reparação - TV,,Não funciona,Abril de 1996
+Televisor Philco B-829 (chassi 389),Marcelo Dias de Oliveira e Mário P. Pinheiro,54,5,Reparação - TV,,Vertical fechado,Abril de 1996
+Televisor Philips GL-2010,Estanislau E. P. Oliveira,56,5,Reparação - TV,,Não funciona; produz ruídos,Abril de 1996
+Videocassete Gradiente GV-504,,57,5,Reparação - Vídeo,,Produz ruídos e não funciona,Abril de 1996
+Videocassete Philco PVC-5000,Marcelo Dias de Oliveira,58,5,Reparação - Vídeo,,Ruído na parte de baixo da imagem,Abril de 1996
+Videocassete CCE VCR-9800,,59,5,Reparação - Vídeo,,Ao acionar PLAY funciona 3 s e volta a STOP,Abril de 1996
+Videocassete Philco PVC-6000,,60,5,Reparação - Vídeo,,Desliga quando se liga o chuveiro ou a geladeira,Abril de 1996
+Osciloscópio Kenwood CS-4025,,61,5,Reparação - Osciloscópio,,Variações de brilho no feixe de elétrons,Abril de 1996
+Organização na Assistência Técnica - II,,63,5,Diversos,,,Abril de 1996
+Acontece,,66,5,Diversos,,,Abril de 1996
+Câmera de vídeo em cores (experimental),,5,6,Montagem do Mês,,,Maio de 1996
+Motores Direct Drive (D.D.),,14,6,Teoria,,,Maio de 1996
+Teoria x Prática - Júnior,,20,6,Teoria x Prática,,,Maio de 1996
+Televisor Philco chassi CPH-05,,22,6,Lançamento,,,Maio de 1996
+Teoria x Prática - Profissional,,30,6,Teoria x Prática,,,Maio de 1996
+Croma de televisão - Parte VI,,32,6,Teoria,,,Maio de 1996
+Teoria x Prática - Expert,,42,6,Teoria x Prática,,,Maio de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,44,6,Diversos,,,Maio de 1996
+Desafio Eletrônico,,46,6,Diversos,,,Maio de 1996
+Receiver Gradiente STR-1050,Marcelo D. Oliveira,48,6,Reparação - Áudio,,Não funciona,Maio de 1996
+Tape-deck Akai RX-R44,Marcelo D. Oliveira e Emerson S. Rosa,49,6,Reparação - Áudio,,Não funciona,Maio de 1996
+System Gradiente MS-188,,50,6,Reparação - Áudio,,"Ao ligar os dois tapes, o motor para de girar",Maio de 1996
+System Sharp SG-18B,Manoel S. S. Filho e Mário P. Pinheiro,51,6,Reparação - Áudio,,Grava com muita distorção,Maio de 1996
+Televisor Philco PC-1426,Manoel S. S. Filho e Mário P. Pinheiro,52,6,Reparação - TV,,Não grava canais,Maio de 1996
+Televisor Mitsubishi TC-2030,Manoel S. S. Filho e Mário P. Pinheiro,53,6,Reparação - TV,,Não funciona; sem brilho,Maio de 1996
+Televisor Mitsubishi TC-2001Z,Marcelo D. Oliveira e Mário P. Pinheiro,54,6,Reparação - TV,,Não funciona; bate o relé,Maio de 1996
+Televisor Sharp C-1484,Marcelo D. Oliveira e Mário P. Pinheiro,55,6,Reparação - TV,,Chuviscos na imagem,Maio de 1996
+Videocassete JVC D-641,Marcelo D. Oliveira e Mário P. Pinheiro,56,6,Reparação - Vídeo,,Na velocidade SLP apresenta ruídos,Maio de 1996
+Videocassete Toshiba X-61M,Paulo Daniel S. Rodrigues,57,6,Reparação - Vídeo,,Não funciona,Maio de 1996
+Videocassete CCE VCA-79X,Alunos CTA e Mário P. Pinheiro,58,6,Reparação - Vídeo,,"Display acende, mas o vídeo não funciona",Maio de 1996
+Videocassete CCE VCR-30X,Carlos O. B. Filho,59,6,Reparação - Vídeo,,A sintonia de canais foge intermitentemente,Maio de 1996
+Super Índice,,61,6,Diversos,,Índice das edições anteriores,Maio de 1996
+Organização na Assistência Técnica,,63,6,Diversos,,,Maio de 1996
+Acontece,,66,6,Diversos,,,Maio de 1996
+Decodificador NTSC (experimental),,5,7,Montagem do Mês,,,Junho de 1996
+Motores Direct Drive (D.D.),,14,7,Teoria,,,Junho de 1996
+Seção do leitor,,19,7,Diversos,,,Junho de 1996
+Flash-Back: televisor Telefunken chassi 841,,21,7,Flash-Back,,,Junho de 1996
+Teoria x Prática - Júnior,,30,7,Teoria x Prática,,,Junho de 1996
+Croma de televisão - Parte VII,,32,7,Teoria,,,Junho de 1996
+Teoria x Prática - Profissional,,40,7,Teoria x Prática,,,Junho de 1996
+Desafio Eletrônico,,42,7,Diversos,,,Junho de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,44,7,Diversos,,,Junho de 1996
+Teoria x Prática - Expert,,46,7,Teoria x Prática,,,Junho de 1996
+3x1 Sony HMK-323BS,Carlos O. B. Filho e Mário P. Pinheiro,48,7,Reparação - Áudio,,FM e AM não funcionam bem,Junho de 1996
+Amplificador Gradiente M-80,Carlos O. B. Filho,49,7,Reparação - Áudio,,Ruído forte em um dos canais,Junho de 1996
+Tape-deck Gradiente CD-2100,Carlos O. B. Filho e Mário P. Pinheiro,50,7,Reparação - Áudio,,Ruído forte em um dos canais,Junho de 1996
+3x1 Sharp SG-220,Mário P. Pinheiro e alunos CTA Eletrônica,51,7,Reparação - Áudio,,Não tem som,Junho de 1996
+Televisor Semp Toshiba TVC-164,,52,7,Reparação - TV,,Quadro fechado no sentido horizontal,Junho de 1996
+Televisor Philips 20CT6456 (CTO),Mário P. Pinheiro,53,7,Reparação - TV,,Serrilhamento horizontal,Junho de 1996
+Televisor Philips 20CT6255 (CTO),Mário P. Pinheiro e alunos de TVC-II da CTA,54,7,Reparação - TV,,Fica sempre em stand-by,Junho de 1996
+Televisor Philips 20CN6985,Marcelo D. Oliveira e Emerson dos Santos Rosa,55,7,Reparação - TV,,Vertical fechado,Junho de 1996
+Televisor Philips 20CN6985,Marcelo D. Oliveira e Emerson dos Santos Rosa,56,7,Reparação - TV,,Imagem turquesa; pouco vermelho,Junho de 1996
+Videocassete Semp Toshiba M-X61M,,57,7,Reparação - Vídeo,,Aciona POWER mas logo se desliga,Junho de 1996
+Videocassete Philco PVC-5000,Marcelo D. Oliveira,58,7,Reparação - Vídeo,,Imagem distorcida e com excesso de branco,Junho de 1996
+Videocassete Mitsubishi HS-X20,,59,7,Reparação - Vídeo,,Não funciona PLAY; desliga ao acionar,Junho de 1996
+Videocassete Sharp VC-794B,Carlos O. B. Filho e Mário P. Pinheiro,60,7,Reparação - Vídeo,,Não memoriza canais,Junho de 1996
+Organização na Assistência Técnica,,63,7,Diversos,,,Junho de 1996
+Acontece,,66,7,Diversos,,,Junho de 1996
+Adaptação PAL (transmissão e recepção),,5,8,Montagem do Mês,,,Julho de 1996
+Motores Direct Drive (D.D.) - Parte III,,14,8,Teoria,,,Julho de 1996
+Teoria x Prática - Júnior,,20,8,Teoria x Prática,,,Julho de 1996
+Flash-Back: televisor Telefunken chassi 841,,22,8,Flash-Back,,,Julho de 1996
+Seção do leitor,,29,8,Diversos,,,Julho de 1996
+Croma de televisão - Parte VIII,,32,8,Teoria,,,Julho de 1996
+Teoria x Prática - Profissional,,40,8,Teoria x Prática,,,Julho de 1996
+Desafio Eletrônico,,42,8,Diversos,,,Julho de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,44,8,Diversos,,,Julho de 1996
+Teoria x Prática - Expert,,46,8,Teoria x Prática,,,Julho de 1996
+Auto rádio toca-fitas Bosch Los Angeles III,Manoel S. S. Filho e Mário P. Pinheiro,48,8,Reparação - Áudio,,"Rádio funciona, mas não aceita fita",Julho de 1996
+Auto rádio toca-fitas Cougar CS-832,Manoel S. S. Filho,49,8,Reparação - Áudio,,"Não acende o display, mas o rádio funciona",Julho de 1996
+System Gradiente DS-690,Estanislau E. P. Oliveira e Aluísio Anderson da Silveira,50,8,Reparação - Áudio,,Não funciona,Julho de 1996
+System Sharp SG-15B,Estanislau E. P. Oliveira,51,8,Reparação - Áudio,,Um canal não funciona; toca-discos não gira,Julho de 1996
+Televisor Philips 20GL1044,"Alunos de EVC-II, Estanislau E. P. Oliveira e Mário P. Pinheiro",52,8,Reparação - TV,,Imagem verde com linhas de retorno,Julho de 1996
+Televisor Philco chassi 384,Emerson S. Rosa e Estanislau E. P. Oliveira,53,8,Reparação - TV,,Imagem dobrada no centro da tela,Julho de 1996
+Televisor Philco PC-2004,Alunos de TVC-II e Mário P. Pinheiro,54,8,Reparação - TV,,Televisor desarmando,Julho de 1996
+Televisor Philips GL-1040,Alunos de TVC-II,55,8,Reparação - TV,,Imagem com pouco brilho e contraste; falta resolução,Julho de 1996
+Videocassete Sharp VC-1094B,Estanislau E. P. Oliveira e Mário P. Pinheiro,56,8,Reparação - Vídeo,,Não aceita fita e não acende display,Julho de 1996
+Videocassete Sharp VC-1094B,Estanislau E. P. Oliveira e Emerson S. Rosa,57,8,Reparação - Vídeo,,Capstan não gira,Julho de 1996
+Videocassete Philco PVC-5900,,58,8,Reparação - Vídeo,,Imagem da fita normal; sem imagem de vídeo dos canais,Julho de 1996
+Videocassete Philco PVC-8200,Estanislau E. P. Oliveira e Emerson S. Rosa,59,8,Reparação - Vídeo,,Não funciona,Julho de 1996
+Gerador de funções Philips PM5131,Aluísio Anderson da Silveira,60,8,Reparação - Instrumentos,,Distorce a forma de onda em baixas frequências,Julho de 1996
+O futuro da Eletrônica no Brasil,,63,8,Diversos,,,Julho de 1996
+Acontece,,66,8,Diversos,,,Julho de 1996
+Detector de defeitos intermitentes,,5,9,Montagem do Mês,,,Agosto de 1996
+Flash-Back: televisor Telefunken chassi 841,,14,9,Flash-Back,,,Agosto de 1996
+Teoria x Prática - Júnior,,30,9,Teoria x Prática,,,Agosto de 1996
+Croma de videocassete - Parte I,,32,9,Teoria,,,Agosto de 1996
+Teoria x Prática - Profissional,,42,9,Teoria x Prática,,,Agosto de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,44,9,Diversos,,,Agosto de 1996
+Teoria x Prática - Expert,,46,9,Teoria x Prática,,,Agosto de 1996
+Desafio Eletrônico,,49,9,Diversos,,,Agosto de 1996
+System CCE SS-9000,"Estanislau E. P. Oliveira, Aluísio Anderson e Mário P. Pinheiro",50,9,Reparação - Áudio,,Não funciona,Agosto de 1996
+System CCE SS-9000,"Estanislau E. P. Oliveira, Emerson dos S. Rosa e Mário P. Pinheiro",51,9,Reparação - Áudio,,Não tem som em um dos canais,Agosto de 1996
+Auto rádio toca-fitas Bosch Rio de Janeiro (tipo DC),Estanislau E. P. Oliveira,52,9,Reparação - Áudio,,Não funciona,Agosto de 1996
+CD Gradiente CDC-AT (carrossel),,53,9,Reparação - Áudio,,A bandeja não se posiciona; erro no display,Agosto de 1996
+Televisor Sanyo CTP 6751-00,Estanislau E. P. Oliveira e Aluísio Anderson,54,9,Reparação - TV,,Não funciona; produz apenas ruídos,Agosto de 1996
+Televisor Sanyo CTP 6751-00,Estanislau E. P. Oliveira e Aluísio Anderson,55,9,Reparação - TV,,Som distorcido; imagem normal,Agosto de 1996
+Televisor Mitsubishi TC-2020,Estanislau E. P. Oliveira e Emerson dos S. Rosa,56,9,Reparação - TV,,Vertical fechado,Agosto de 1996
+Televisor Philips chassi CTO,Estanislau E. P. Oliveira e Aluísio Anderson,57,9,Reparação - TV,,Não memoriza canais,Agosto de 1996
+Videocassete Panasonic NV-L26BR,Estanislau E. P. Oliveira,58,9,Reparação - Vídeo,,Não apresenta sinal de vídeo dos canais,Agosto de 1996
+Videocassete Panasonic PV-4700,Estanislau E. P. Oliveira,59,9,Reparação - Vídeo,,Não funciona; não acende display,Agosto de 1996
+Videocassete Goldstar GHV-1240M,Estanislau E. P. Oliveira e Emerson S. Rosa,60,9,Reparação - Vídeo,,Não funciona,Agosto de 1996
+Videocassete Panasonic NV-G21,Estanislau E. P. Oliveira e Aluísio Anderson,61,9,Reparação - Vídeo,,Não grava som,Agosto de 1996
+O atendimento na prestação de serviços,,64,9,Diversos,,,Agosto de 1996
+Comutador automático de tensão,,5,10,Montagem do Mês,,,Setembro de 1996
+Seção do leitor,,14,10,Diversos,,,Setembro de 1996
+Teoria x Prática - Júnior,,16,10,Teoria x Prática,,,Setembro de 1996
+Flash-Back: televisor Philips chassi GR-1,,18,10,Flash-Back,,,Setembro de 1996
+Teoria x Prática - Profissional,,28,10,Teoria x Prática,,,Setembro de 1996
+Croma de videocassete - Parte II,,30,10,Teoria,,,Setembro de 1996
+Informática,,40,10,Teoria,,,Setembro de 1996
+Teoria x Prática - Expert,,44,10,Teoria x Prática,,,Setembro de 1996
+Utilizando o detector de defeitos intermitentes,,46,10,Teoria,,,Setembro de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,52,10,Diversos,,,Setembro de 1996
+Auto rádio toca-fitas Bosch Rio de Janeiro,,54,10,Reparação - Áudio,,,Setembro de 1996
+Auto rádio toca-fitas Motorádio ACE-M22,,55,10,Reparação - Áudio,,Corta o rádio e apaga o display intermitentemente,Setembro de 1996
+System Gradiente DS-25,Antônio Clério e Mário P. Pinheiro,56,10,Reparação - Áudio,,Não funciona AM,Setembro de 1996
+System Sharp SG-18B,Argemiro V. Souza,57,10,Reparação - Áudio,,FM não funciona; AM normal,Setembro de 1996
+Televisor Semp Toshiba TS-207VS,,58,10,Reparação - TV,,Serrilhamento horizontal; linhas claras no topo,Setembro de 1996
+Televisor Telefunken VC-472,"Emerson S. Rosa, Estanislau E. P. Oliveira e Mário P. Pinheiro",59,10,Reparação - TV,,Sem foco,Setembro de 1996
+Televisor Sony KV-2959T,"Emerson S. Rosa, Estanislau E. P. Oliveira e Mário P. Pinheiro",61,10,Reparação - TV,,Chuviscos nos canais baixos (2 a 6),Setembro de 1996
+Videocassete Panasonic NV-G21,,62,10,Reparação - Vídeo,,A mecânica se comporta de maneira estranha,Setembro de 1996
+Videocassete Panasonic PV-4920,,63,10,Reparação - Vídeo,,Vibrações na imagem e alteração do brilho no display,Setembro de 1996
+Videocassete CCE VCR-74X,"Emerson S. Rosa, Estanislau E. P. Oliveira e Mário P. Pinheiro",64,10,Reparação - Vídeo,,"Display acende, mas o vídeo não funciona",Setembro de 1996
+Videocassete Panasonic NV-G46BR,,65,10,Reparação - Vídeo,,Não entra a fita; a mecânica produz ruídos,Setembro de 1996
+Acontece,,66,10,Diversos,,,Setembro de 1996
+Rádio AM,,5,11,Montagem do Mês,,,Outubro de 1996
+Por dentro do automóvel,,14,11,Teoria,,,Outubro de 1996
+Teoria x Prática - Júnior,,16,11,Teoria x Prática,,,Outubro de 1996
+Flash-Back: televisor Philips chassi GR-1,,18,11,Flash-Back,,,Outubro de 1996
+Motores D.D. - Parte IV,,25,11,Teoria,,,Outubro de 1996
+Teoria x Prática - Profissional,,28,11,Teoria x Prática,,,Outubro de 1996
+Utilizando o detector de defeitos intermitentes,,30,11,Teoria,,,Outubro de 1996
+Teoria x Prática - Expert,,36,11,Teoria x Prática,,,Outubro de 1996
+Informática,,38,11,Teoria,,,Outubro de 1996
+Croma de videocassete - Parte III,,40,11,Teoria,,,Outubro de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,48,11,Diversos,,,Outubro de 1996
+CD Philips AK-601,Flávio Pereira de Oliveira,54,11,Reparação - Áudio,,O CD às vezes muda de música e desliga sozinho,Outubro de 1996
+System Philips AS-9604,Flávio Pereira de Oliveira,55,11,Reparação - Áudio,,Saída aquece; não há som,Outubro de 1996
+System Philips FW-56,Flávio Pereira de Oliveira,56,11,Reparação - Áudio,,Liga e desliga logo em seguida,Outubro de 1996
+Rádio Philco RD-101,Manoel S. S. Filho,57,11,Reparação - Áudio,,Som muito distorcido,Outubro de 1996
+Televisor Telefunken/Gradiente 14C5160 (chassi TX-75),Emerson S. Rosa e Estanislau E. P. Oliveira,58,11,Reparação - TV,,Não funciona,Outubro de 1996
+Televisor Philips 20CT6055,"Emerson S. Rosa, Estanislau E. P. Oliveira e Mário P. Pinheiro",59,11,Reparação - TV,,Apenas chuviscos,Outubro de 1996
+Televisor Broksonic CTR-2808T,Aluísio Anderson e Estanislau E. P. Oliveira,60,11,Reparação - TV,,Liga e desliga intermitentemente,Outubro de 1996
+Televisor Sharp TVC-1484A,Alunos de TVC-II,61,11,Reparação - TV,,Vertical levemente fechado na parte superior,Outubro de 1996
+Combinado VCR/TV Emerson VT-2021,"Emerson S. Rosa, Estanislau E. P. Oliveira e Mário P. Pinheiro",62,11,Reparação - Vídeo,,Não funciona a fita,Outubro de 1996
+Videocassete Panasonic NV-1123PN,Emerson S. Rosa,63,11,Reparação - Vídeo,,Acende o display (stand-by); não funciona a fita,Outubro de 1996
+Videocassete Gradiente GV-404,,64,11,Reparação - Vídeo,,"Ao acionar o PLAY, desliga após 2 segundos",Outubro de 1996
+Videocassete Gradiente GV-202,,65,11,Reparação - Vídeo,,"Não aciona o POWER, mas o timer acende",Outubro de 1996
+Acontece,,66,11,Diversos,,,Outubro de 1996
+Comutador de áudio-vídeo e RF,,5,12,Montagem do Mês,,,Novembro de 1996
+Teoria x Prática - Júnior,,16,12,Teoria x Prática,,,Novembro de 1996
+Motores D.D. - Parte V,,18,12,Teoria,,,Novembro de 1996
+Informática,,22,12,Teoria,,,Novembro de 1996
+Croma de videocassete - Parte IV,,25,12,Teoria,,,Novembro de 1996
+Teoria x Prática - Profissional,,32,12,Teoria x Prática,,,Novembro de 1996
+Utilizando o detector de defeitos intermitentes,,34,12,Teoria,,,Novembro de 1996
+Teoria x Prática - Expert,,40,12,Teoria x Prática,,,Novembro de 1996
+Flash-Back: televisor Philips chassi GR-1,,42,12,Flash-Back,,,Novembro de 1996
+Por dentro do automóvel,,47,12,Teoria,,,Novembro de 1996
+Auto rádio toca-fitas Volksline (Ford) DN25,Aluísio Anderson,50,12,Reparação - Áudio,,"Acende a luz do display, mas este não funciona",Novembro de 1996
+System CCE SS-9000,Emerson S. Rosa,51,12,Reparação - Áudio,,"Ao acionar TUNER, o display do CD permanece aceso",Novembro de 1996
+Auto rádio toca-fitas CCE CM-2107,"Aluísio Anderson da Silveira, Estanislau E. P. Oliveira e Mário P. Pinheiro",52,12,Reparação - Áudio,,Não tem som,Novembro de 1996
+Televisor Sharp C-2095B,"Aluísio Anderson, Estanislau E. P. Oliveira e Mário P. Pinheiro",53,12,Reparação - TV,,Imagem amarelada (sem azul),Novembro de 1996
+Televisor Telefunken 21C7077 (CH 841),,54,12,Reparação - TV,,Fonte inicia a partida e logo para,Novembro de 1996
+Televisor Sharp C-1626 (chassi G),,56,12,Reparação - TV,,Horizontal entortando e perdendo cor intermitentemente,Novembro de 1996
+Videocassete Panasonic NV-G21,Estanislau E. P. Oliveira,57,12,Reparação - Vídeo,,Não sintoniza canais,Novembro de 1996
+Videocassete Panasonic NV-G21,Aluísio Anderson,58,12,Reparação - Vídeo,,Travado direto em SLP,Novembro de 1996
+Videocassete Panasonic NV-G9,Estanislau E. P. Oliveira,59,12,Reparação - Vídeo,,Não sintoniza canais,Novembro de 1996
+Osciloscópio Kenwood CS-4035,Manoel S. S. Filho,60,12,Reparação - Osciloscópio,,"Liga o power, mas não tem brilho",Novembro de 1996
+Osciloscópio Kenwood CS-4025,,61,12,Reparação - Osciloscópio,,,Novembro de 1996
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,62,12,Diversos,,,Novembro de 1996
+Super Índice,,64,12,Diversos,,,Novembro de 1996
+Acontece,,66,12,Diversos,,,Novembro de 1996
+Super Bancada - Parte I,,5,13,Montagem do Mês,,,Janeiro de 1997
+Informática,,14,13,Teoria,,,Janeiro de 1997
+Teoria x Prática - Júnior,,24,13,Teoria x Prática,,,Janeiro de 1997
+II Convenção Nacional do Serviço Autorizado,,30,13,Diversos,,"Realizada em 25/11 no Hotel Deville, Guarulhos, com cerca de 400 autorizados",Janeiro de 1997
+A produtividade na Assistência Técnica,,39,13,Diversos,,,Janeiro de 1997
+Teoria x Prática - Profissional,,44,13,Teoria x Prática,,,Janeiro de 1997
+Teoria x Prática - Expert,,50,13,Teoria x Prática,,,Janeiro de 1997
+Auto rádio toca-fitas Motorádio ACS-M32,Estanislau E. P. Oliveira,52,13,Reparação - Áudio,,Motor não gira; rádio não desliga,Janeiro de 1997
+Auto rádio toca-fitas Cougar CS-832,Estanislau E. P. Oliveira e Mário P. Pinheiro,53,13,Reparação - Áudio,,Não funciona FM; AM normal,Janeiro de 1997
+Televisor Mitsubishi TC-2001Z,,54,13,Reparação - TV,,"Não acende display, não muda de canais e só chuvisca",Janeiro de 1997
+Televisor Telefunken chassi 841,Manoel S. S. Filho,55,13,Reparação - TV,,Não funciona,Janeiro de 1997
+Videocassete Samsung VM-1261,,56,13,Reparação - Vídeo,,"Ao colocar a fita, os postes carregam e logo em seguida descarregam",Janeiro de 1997
+Videocassete Mitsubishi HS-X50,Manoel S. S. Filho,57,13,Reparação - Vídeo,,Variando a rotação do motor DRUM,Janeiro de 1997
+Super Bancada - Parte II,,5,14,Montagem do Mês,,,Fevereiro de 1997
+Informática,,17,14,Teoria,,,Fevereiro de 1997
+Teoria x Prática - Júnior,,20,14,Teoria x Prática,,,Fevereiro de 1997
+Croma de videocassete - Parte VI,,22,14,Teoria,,,Fevereiro de 1997
+Teoria x Prática - Profissional,,30,14,Teoria x Prática,,,Fevereiro de 1997
+Flash-Back: televisor Sharp chassi H - Parte II,,32,14,Flash-Back,,,Fevereiro de 1997
+Por dentro do automóvel,,39,14,Teoria,,,Fevereiro de 1997
+Seção do leitor,,43,14,Diversos,,,Fevereiro de 1997
+Teoria x Prática - Expert,,44,14,Teoria x Prática,,,Fevereiro de 1997
+Motores Direct Drive (D.D.) - Parte VI,,46,14,Teoria,,,Fevereiro de 1997
+System Philips FP9400,Carlos O. B. Filho,52,14,Reparação - Áudio,,Sem volume; às vezes aumenta de uma só vez,Fevereiro de 1997
+Sintonizador Sony LBT-20W,Manoel S. S. Filho,53,14,Reparação - Áudio,,Não funcionam AM e FM,Fevereiro de 1997
+Auto rádio toca-fitas CCE GM-330,Estanislau E. P. Oliveira,54,14,Reparação - Áudio,,Não funciona rádio; fita normal,Fevereiro de 1997
+Televisor CCE HPS-2090,Estanislau E. P. Oliveira e Mário P. Pinheiro,55,14,Reparação - TV,,Sem vídeo (brilho atua); com som,Fevereiro de 1997
+Televisor Philco PAVM-2162,Estanislau E. P. Oliveira,56,14,Reparação - TV,,"Ao ligar faz um ruído, depois para completamente",Fevereiro de 1997
+Televisor Philips GL-1010,Estanislau E. P. Oliveira,57,14,Reparação - TV,,Não funciona,Fevereiro de 1997
+Videocassete Philco PVC-6000,,58,14,Reparação - Vídeo,,Sem sinal de vídeo da fita; vídeo do tuner normal,Fevereiro de 1997
+Videocassete Toshiba M-X61,,59,14,Reparação - Vídeo,,"Sem imagem, mas toda a mecânica aciona",Fevereiro de 1997
+Videocassete Sharp VC-762,,60,14,Reparação - Vídeo,,Motores de capstan e cilindro girando muito rápido,Fevereiro de 1997
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,61,14,Diversos,,,Fevereiro de 1997
+Acontece,,66,14,Diversos,,,Fevereiro de 1997
+Super Bancada - Parte III (conclusão),Carlos O. B. Filho,5,15,Montagem do Mês,,"Painel frontal, gabinete e módulo da lâmpada em série; página aproximada",Março de 1997
+Informática,,18,15,Teoria,,Página aproximada,Março de 1997
+Croma de videocassete - Parte VII,,20,15,Teoria,,Sistemas de transcodificação PAL-NTSC; página aproximada,Março de 1997
+Flash-Back: televisor Sharp chassi H (conclusão),,28,15,Flash-Back,,Sistema de controle e gerador de OSD; página aproximada,Março de 1997
+Por dentro do automóvel,,37,15,Teoria,,Página aproximada,Março de 1997
+Comparadores e sinais com malha PLL,,40,15,Teoria,,Controle preciso de frequência e fase; página aproximada,Março de 1997
+Discman portátil,,47,15,Reparação - Áudio,,Página aproximada,Março de 1997
+System Philco PMD-200,Manoel S. S. Filho e Mário P. Pinheiro,53,15,Reparação - Áudio,,Não funciona; display apagado,Março de 1997
+Auto rádio toca-fitas Bosch Los Angeles Marina CD,Carlos O. B. Filho,54,15,Reparação - Áudio,,Tape não funciona,Março de 1997
+Televisor Philco chassi CPH05,Carlos O. B. Filho e Mário P. Pinheiro,55,15,Reparação - TV,,Sem cor,Março de 1997
+Televisor Semp Toshiba TS-207VS,,57,15,Reparação - TV,,O canal aparece rapidamente e logo é feito o MUTE,Março de 1997
+Videocassete Philco PVC-5000,,58,15,Reparação - Vídeo,,Aciona o PLAY mas o capstan não traciona a fita,Março de 1997
+Videocassete Philco PVC-6400,Manoel S. S. Filho,59,15,Reparação - Vídeo,,Não funciona; display apagado,Março de 1997
+Videocassete [Philco],Carlos O. B. Filho e Mário P. Pinheiro,60,15,Reparação - Vídeo,,"Ao acionar o play, enrosca a fita na mecânica",Março de 1997
+Grande Avaliação de Eletrônica (Eletrônica Industrial),,61,15,Diversos,,Perguntas e respostas da Avaliação de setembro; página aproximada,Março de 1997
+Acontece,,66,15,Diversos,,Página aproximada,Março de 1997
+Contador digital programável,,5,16,Montagem do Mês,,,Abril de 1997
+Informática,,14,16,Teoria,,,Abril de 1997
+Teoria x Prática - Júnior,,18,16,Teoria x Prática,,,Abril de 1997
+Croma de videocassete - Parte VIII,,20,16,Teoria,,,Abril de 1997
+Televisor Philco PCS-3300 - Parte I,,26,16,Lançamento,,,Abril de 1997
+Teoria x Prática - Profissional,,36,16,Teoria x Prática,,,Abril de 1997
+Por dentro do automóvel,,38,16,Teoria,,,Abril de 1997
+Comparadores digitais - Parte II,,40,16,Teoria,,,Abril de 1997
+Fonte chaveada Sony - parte final,,45,16,Teoria,,,Abril de 1997
+Teoria x Prática - Expert,,50,16,Teoria x Prática,,,Abril de 1997
+System CD CCE SS-9000,Carlos O. B. Filho,52,16,Reparação - Áudio,,Não funciona nada; display não acende,Abril de 1997
+System Sharp SA-20B,Carlos O. B. Filho,53,16,Reparação - Áudio,,"Liga o power, mas não acende display e não tem som",Abril de 1997
+Teclado Kawai X-120,,54,16,Reparação - Áudio,,Análise do acionamento inicial da fonte de alimentação,Abril de 1997
+Televisor Philco chassi CPH-04,Estanislau E. P. Oliveira,55,16,Reparação - TV,,Linhas claras no topo da imagem,Abril de 1997
+Televisor Sony KV-2959T,Estanislau E. P. Oliveira e Mário P. Pinheiro,56,16,Reparação - TV,,Não funciona,Abril de 1997
+Televisor CCE HPS-2070,,57,16,Reparação - TV,,,Abril de 1997
+Videocassete Mitsubishi HS-X20,,58,16,Reparação - Vídeo,,Barras de ruído correndo na tela durante a reprodução,Abril de 1997
+Videocassete Panasonic G-21,Manoel S. S. Filho,60,16,Reparação - Vídeo,,Não aceita fita; LED power ligado e display apagado,Abril de 1997
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,61,16,Diversos,,,Abril de 1997
+Acontece,,66,16,Diversos,,,Abril de 1997
+Simulador de presença,,5,17,Montagem do Mês,,,Maio de 1997
+Novidades da UD,,13,17,Diversos,,,Maio de 1997
+Informática,,18,17,Teoria,,,Maio de 1997
+Teoria x Prática - Júnior,,22,17,Teoria x Prática,,,Maio de 1997
+Croma de videocassete - Parte IX,,24,17,Teoria,,,Maio de 1997
+Teoria x Prática - Profissional,,30,17,Teoria x Prática,,,Maio de 1997
+Curso de Compact Disc - Lição 1,,32,17,Teoria,,,Maio de 1997
+Teoria x Prática - Expert,,42,17,Teoria x Prática,,,Maio de 1997
+Televisor Philco PCS-3300 - Parte II,,44,17,Lançamento,,,Maio de 1997
+Auto rádio toca-fitas Volksline DN25-D045,"Sérgio O. Borges, Manoel S. S. Filho e Mário P. Pinheiro",53,17,Reparação - Áudio,,Toca os dois lados da fita ao mesmo tempo,Maio de 1997
+Amplificador Lanner AL-9280,"Sérgio O. Borges, Cristiano C. Dornelas e Mário P. Pinheiro",54,17,Reparação - Áudio,,Distorce; saída não aquece,Maio de 1997
+Auto rádio toca-fitas Pioneer K-1616,Cristiano C. Dornelas e Manoel S. S. Filho,55,17,Reparação - Áudio,,"Painel acende, mas não há som",Maio de 1997
+Televisor Mitsubishi TC-2041,Manoel S. S. Filho,56,17,Reparação - TV,,"Funciona, mas queima o transístor de saída horizontal após 2 ou 3 dias",Maio de 1997
+Televisor Mitsubishi TC-2020,,58,17,Reparação - TV,,,Maio de 1997
+Videocassete Panasonic NV-G10,Manoel S. S. Filho,59,17,Reparação - Vídeo,,Não sintoniza canais,Maio de 1997
+Videocassete Toshiba X-61M,,60,17,Reparação - Vídeo,,,Maio de 1997
+Videocassete Philco PVC-6000,Mário P. Pinheiro,61,17,Reparação - Vídeo,,Não acende display,Maio de 1997
+Avaliação Geral de Eletrônica e Áudio e Vídeo,,62,17,Diversos,,,Maio de 1997
+Acontece,,66,17,Diversos,,,Maio de 1997
+Relógio digital,,5,18,Montagem do Mês,,Temporizador para várias áreas,Junho de 1997
+Informática,,16,18,Teoria,,,Junho de 1997
+Teoria x Prática - Júnior,,20,18,Teoria x Prática,,,Junho de 1997
+Croma de videocassete - Parte X,,22,18,Teoria,,,Junho de 1997
+Televisor Philco PCS-3300 - Parte III,,27,18,Lançamento,,,Junho de 1997
+Teoria x Prática - Profissional,,34,18,Teoria x Prática,,,Junho de 1997
+Curso de Compact Disc - Lição 2,,36,18,Teoria,,,Junho de 1997
+Teoria x Prática - Expert,,44,18,Teoria x Prática,,,Junho de 1997
+Notícias - Novidades da UD,,46,18,Diversos,,,Junho de 1997
+Compact disc Samsung CD35/35R,,55,18,Reparação - Áudio,,"Lê o CD, mas não tem som e às vezes emite ruídos",Junho de 1997
+Televisor Mitsubishi TC-2020,Sérgio J. O. Borges,56,18,Reparação - TV,,A memória do canal 13 não funciona,Junho de 1997
+Televisor Sharp C-1402G,,57,18,Reparação - TV,,,Junho de 1997
+Televisor Sharp TVC-2026B,,58,18,Reparação - TV,,,Junho de 1997
+Videocassete Panasonic L-26BR,,59,18,Reparação - Vídeo,,Não funciona nada; display não acende,Junho de 1997
+Videocassete Toshiba VCR-X27,,60,18,Reparação - Vídeo,,,Junho de 1997
+Videocassete CCE VCR-80X,Manoel S. S. Filho e Mário P. Pinheiro,61,18,Reparação - Vídeo,,Faixas pretas na imagem reproduzida pela fita,Junho de 1997
+Osciloscópio Hung Chang 3502,Manoel S. S. Filho e Mário P. Pinheiro,62,18,Reparação - Instrumentos,,,Junho de 1997
+Super Índice,,64,18,Diversos,,,Junho de 1997
+Acontece,,66,18,Diversos,,,Junho de 1997
