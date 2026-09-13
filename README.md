@@ -45,3 +45,10 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 - Alguns índices atualizados por Walter Nunes (APE, Be-a-ba e DCE).
 
 - Diversos índices atualizados de forma automatizada com o Claude (Claude Code), LLMs locais via Ollama (qwen2.5:7b para limpeza de texto, qwen2.5vl:3b para leitura de páginas de índice, llama3.2:3b para tarefas leves) e scripts (pdftoppm, Tesseract OCR, Pillow e Python), a partir dos PDFs digitalizados das edições.
+
+## Como ajudar
+
+Tem alguma edição que falta no acervo, digitalizada ou física, ou sabe
+onde encontrar? A lista de edições faltando de cada revista está em
+[EDICOES-FALTANTES.md](EDICOES-FALTANTES.md). Abra uma issue contando o
+que você tem, ou edite a tabela direto num Pull Request.
