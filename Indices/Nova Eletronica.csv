@@ -540,6 +540,10 @@ Diodos Prot. Tradutor de Níveis Lógicos,,73,32,,,,10/79
 Microprocessadores em Ação III,,88,32,,,,10/79
 Prática em Técnicas Digitais X,,92,32,,,,10/79
 Curso de Semicondutores XXIII,,118,32,,,,10/79
+Power 200,,2,33,,,,11/79
+Módulo de Acoplamento para o Equasound,,7,33,,,,11/79
+Uma Placa para o Tiro ao Alvo Eletrônico,,15,33,,,,11/79
+Um Indicador de Continuidade em Circuitos,,19,33,,,,11/79
 Testador de Nível Lógico T T L II,,26,33,,,,11/79
 "Pré Ampl. c/ Alimentação de 1,5 a 3 V",,31,33,,,,11/79
 Fonte Simétrica c/ Um Enrolamento,,31,33,,,,11/79
@@ -558,6 +562,10 @@ Problemas com RS 232 ?,,86,33,,,,11/79
 8080 Para Principiantes VIII,,92,33,,,,11/79
 Prática em Técnicas Digitais XI,,96,33,,,,11/79
 Curso de Semicondutores XXIV,,118,33,,,,11/79
+Amplitena — uma Antena Interna para Seu Carro,,2,34,,,,12/79
+A Montagem do Power 200,,4,34,,,,12/79
+Um Novo DPM com Display de Cristal Líquido,,14,34,,,,12/79
+Conheça os Osciladores a Ponte de Wien,,24,34,,,,12/79
 Antologia do 1310 / 1800 Dec. FM Stereo,,28,34,,,,12/79
 Sirene Eletrônica,,34,34,,,,12/79
 Avanços em Holografia,,40,34,,,,12/79
@@ -573,12 +581,16 @@ Amplificador de Isolação Híbrido,,70,34,,,,12/79
 Convert. Dados Dig. em Gráficos de T V C,,87,34,,,,12/79
 Prática em Técnicas Digitais XII,,92,34,,,,12/79
 Curso de Semicondutores XXV,,119,34,,,,12/79
+"Brisatemp, Temporizador para o Limpador de Pára-brisa",,2,35,,,,01/80
+"Voice Compressor, o Novo Compressor para PX, Gravações, Microfones",,8,35,,,,01/80
+O Mini-Moogh: uma Introdução à Música Eletrônica,,14,35,,,,01/80
 Chave Sequêncial,,24,35,,,,01/80
 Aplicações do Vidro e Vidro Cerâmica,,27,35,,,,01/80
 Proj. de Sonorização p/ Grandes Amb. II,,36,35,,,,01/80
 Válvulas e Transistores,,48,35,,,,01/80
 Manutenção de Aparelhos Digitais,,54,35,,,,01/80
 Circ. que atua como Diodo Zener de Pot.,,59,35,,,,01/80
+Como Reparar Circuitos TTL,,59,35,,,,01/80
 Pisca - Pisca p/ Motos,,63,35,,,,01/80
 Monitor p/ Sistema Elétrico de Autos,,67,35,,,,01/80
 Limitador de Pot. Sem Perdas c/ S C R,,68,35,,,,01/80
@@ -589,6 +601,9 @@ Módulos B U B B L E ( Memórias ),,80,35,,,,01/80
 Prática em Técnicas Digitais XIII,,94,35,,,,01/80
 SN 76477N Gerador de Sons Complexos,,101,35,,,,01/80
 Curso de Semicondutores XXVI,,118,35,,,,01/80
+Um Laboratório de Efeitos Luminosos com uma Infinidade de Aplicações,,2,36,,,,02/80
+Um Laboratório de Efeitos Sonoros de um Só Integrado,,12,36,,,,02/80
+Nervo-teste — um Desafio aos Seus Nervos,,21,36,,,,02/80
 Sintetizador Sustainer + Pré,,32,36,,,,02/80
 Fornos de Microondas,,33,36,,,,02/80
 Antologia dos Pré Ampl. LM381/LM382/LM387,,39,36,,,,02/80
@@ -597,11 +612,15 @@ F U Z Z Distorcedor p/ Guitarras,,53,36,,,,02/80
 Conversor Senoidal / Quadrada,,56,36,,,,02/80
 Traçador de Curvas p/ Osciloscópio,,59,36,,,,02/80
 Medidor de HFE Utilizando Mult. Digital,,64,36,,,,02/80
+Como o Processo BIFET Beneficiou os Operacionais,,64,36,,,,02/80
 Bifet X Bipolar,,66,36,,,,02/80
 U C P Z8000,,71,36,,,,02/80
 8080 Para Principiantes XI,,81,36,,,,02/80
 Curso de Semicondutores XXVII,,94,36,,,,02/80
 Prática em Técnicas Digitais XIV,,97,36,,,,02/80
+Compressor para Equipamento de PX,,2,37,,,,03/80
+Carta dos Elementos Digitais Básicos,,10,37,,,,03/80
+As Ondas Acústicas de Superfície,,18,37,,,,03/80
 Eliminador de Interferências,,31,37,,,,03/80
 5 5 5 Como Disparador,,32,37,,,,03/80
 Sonorização de Amb. Residênciais I,,40,37,,,,03/80
@@ -615,6 +634,8 @@ Pot. de Volume c/ Pot. Linear + Ampl. Op.,,77,37,,,,03/80
 Módulos B U B B L E ( Memórias ) Teste,,86,37,,,,03/80
 Prática em Técnicas Digitais XV,,93,37,,,,03/80
 Curso de Semicondutores XXVIII,,99,37,,,,03/80
+"Multitimer, o Temporizador com Inúmeras Aplicações",,2,38,,,,04/80
+Carta de Referência de Circuitos Digitais Básicos,,10,38,,,,04/80
 Casador de Impedâncias p/ Antena PX,,27,38,,,,04/80
 Antologia do LM 565 P L L,,33,38,,,,04/80
 Videodisco : Na Sua Tela de T V,,38,38,,,,04/80
@@ -631,6 +652,9 @@ MC 6801 Microcomp. que Opera em 8 Modal.,,87,38,,,,04/80
 Controlador de Periféricos c/ Lógica I² L,,94,38,,,,04/80
 Prática em Técnicas Digitais XVI,,99,38,,,,04/80
 Curso de Semicondutores XXIX,,121,38,,,,04/80
+Um Inédito Testador de Transistor,,2,39,,,,05/80
+Contador Universal Ampliável — e Suas Aplicações,,7,39,,,,05/80
+Popularizando os Integrados CMOS,,20,39,,,,05/80
 Cápsulas Fonocaptoras,,36,39,,,,05/80
 Alarme p/ Lanternas Acesas,,46,39,,,,05/80
 Trêmulo p/ Guitarras,,49,39,,,,05/80
@@ -645,6 +669,10 @@ Curso de Semicondutores XXX,,86,39,,,,05/80
 Prática em Técnicas Digitais XVII,,92,39,,,,05/80
 6508 CMOS RAM ( 1024 X 1 ),,106,39,,,,05/80
 BD 379 / BD 380 Drivers p/ Ampl. de 40 W,,107,39,,,,05/80
+Digital IC Tester,,2,40,,,,06/80
+Contador Duplo TTL,,11,40,,,,06/80
+Módulo Pré-amplificador do Stereo 100,,14,40,,,,06/80
+Módulo de Potência do Power 200,,22,40,,,,06/80
 Pop. Os Integrados CMOS II,,33,40,,,,06/80
 Antologia do 8038 Gerador de Funções,,38,40,,,,06/80
 LM 159 / LM 359 Ampl. Norton Duplos,,53,40,,,,06/80
@@ -657,8 +685,11 @@ Testador p/ Chaves D I P,,79,40,,,,06/80
 Levitador Magnético,,80,40,,,,06/80
 Timer p/ Luz Interna de Veículos,,83,40,,,,06/80
 µComputador 2920 Fala c/ Aux. de Softw.,,84,40,,,,06/80
+As Máquinas Falam nas Escolas,,90,40,,,,06/80
 Instrumentação Anal. e Digital Básica I,,92,40,,,,06/80
 Prática em Técnicas Digitais XVIII,,100,40,,,,06/80
+"Intercomunicador FM, a Comunicação pela Rede Elétrica",,2,41,,,,07/80
+Popularizando os Integrados CMOS — Conclusão,,15,41,,,,07/80
 Pulsos de Nanossegundos c/ TTL,,36,41,,,,07/80
 V C O com 3 Inversores CMOS,,36,41,,,,07/80
 "Capacitor , Esse Desconhecido II",,38,41,,,,07/80
@@ -672,7 +703,11 @@ Indicad. de Cod. Bin. em Display de 1½ Dig.,,71,41,,,,07/80
 V-MOSFETs de Potência,,74,41,,,,07/80
 Hardware do MC 68000,,83,41,,,,07/80
 Prática em Técnicas Digitais XIX,,91,41,,,,07/80
+Instrumentação Analógica e Digital Básica — 2ª Lição,,100,41,,,,07/80
 Instrumentação Anal. e Digital Básica II,,101,41,,,,07/80
+Alarme Ultra-sônico Integrado — 1ª Parte,,2,42,,,,08/80
+A Eletrônica dos Circuitos Básicos,,9,42,,,,08/80
+Antologia do 723,,19,42,,,,08/80
 Display c/ Ch. Rotat. e Matriz de Diodos II,,25,42,,,,08/80
 Multiplex de 4 Canais p/ Multímetros Dig.,,26,42,,,,08/80
 Conta Segundos Digital,,30,42,,,,08/80
@@ -688,6 +723,9 @@ C P U Z 80 µprocessador de 8 Bits,,64,42,,,,08/80
 Serviços de Telecomunicações,,75,42,,,,08/80
 Instrumentação Anal. e Digital Básica III,,91,42,,,,08/80
 Prática em Técnicas Digitais XX,,97,42,,,,08/80
+Alarme Ultra-sônico Integrado — Conclusão,,4,43,,,,09/80
+A Eletrônica dos Circuitos Básicos — 2ª Parte,,14,43,,,,09/80
+Dois Testadores: um para Baterias...,,28,43,,,,09/80
 Provador de Cristais,,32,43,,,,09/80
 Transmissão A M ( PY / PX ),,36,43,,,,09/80
 Circuito de Influência p/ Fones,,40,43,,,,09/80
