@@ -71,6 +71,7 @@ Curso de Audio V,,728,6,,,,07/77
 O Sintetizador,,737,6,,,,07/77
 Frequencímetro (Melhorando O...),,738,6,,,,07/77
 Oscilador Padrão a Cristal,,748,6,,,,07/77
+Errata,,755,6,,,,07/77
 Strobo,,764,6,,,,07/77
 Programação de Microcomputadores VI,,772,6,,,,07/77
 Terminal de Vídeo TTV3216 III,,782,6,,,,07/77
@@ -100,8 +101,10 @@ Programação de Microcomputadores VIII,,198,8,,,,09/77
 Transistores da Série TIP,,202,8,,,,09/77
 Parâmetros dos Ampl. Operacionais II,,206,8,,,,09/77
 Curso de Audio VII,,213,8,,,,09/77
+Relógio Digital para Automóveis - Conclusão,,260,9,,,,11/77
 Carregador de Baterias,,268,9,,,,11/77
 Reflexômetro: O Joguinho,,274,9,,,,11/77
+Reflexômetro — «O Joguinho»,,278,9,,,,11/77
 Repelin: Repelente Eletrônico,,281,9,,,,11/77
 Fibras Óticas nas Comunicações I,,288,9,,,,11/77
 Estroboscópio e Suas Aplicações,,292,9,,,,11/77
@@ -119,6 +122,8 @@ Curso de Técnicas Digitais III,,339,9,,,,11/77
 Curso de Audio VIII,,348,9,,,,11/77
 UA2240 Cont.de Tempo Programável,,354,9,,,,11/77
 UA0801 C e UA0802 A/C Conv. Digitais / Anal.,,355,9,,,,11/77
+Os Tiristores na Indústria — Conclusão,,40,10,,,,12/77
+Camping-lux,,387,10,,,,12/77
 Mini Órgão Eletrônico,,392,10,,,,12/77
 Multímetros Analógicos,,398,10,,,,12/77
 Amplificadores c/ TDA2010 e TDA2020,,402,10,,,,12/77
@@ -136,6 +141,7 @@ Linguagens de Programação I,,451,10,,,,12/77
 Curso de Técnicas Digitais IV,,459,10,,,,12/77
 Curso de Audio IX,,472,10,,,,12/77
 FPA100 / 101 / 102 ( Emissor / Recep. I R ),,479,10,,,,12/77
+"Chronos, o Novo Relógio Digital de Mesa",,512,11,,,,01/78
 Dobrador de Tensão 12 V p/ 24 V X 1 A,,527,11,,,,01/78
 Fonte c/ Baixa Corrente de Repouso,,530,11,,,,01/78
 Ponta de Prova Lógica Simples,,530,11,,,,01/78
@@ -144,12 +150,17 @@ Visita a Uma Fabr. de Transistores,,539,11,,,,01/78
 Equivalência Entre Integrados I,,546,11,,,,01/78
 Fitas Magnéticas ( Fabricação ) II,,553,11,,,,01/78
 No Mundo da Faixa do Cidadão,,556,11,,,,01/78
+Glossário de Termos Técnicos,,558,11,,,,01/78
 Maior Desempenho dos CI s LSI III,,565,11,,,,01/78
+"Novidades da Engenharia, para Sua Informação",,573,11,,,,01/78
 Conhecendo Melhor as Memórias,,577,11,,,,01/78
 Linguagens de Programação II,,581,11,,,,01/78
 Curso de Semicondutores I,,585,11,,,,01/78
 Curso de Técnicas Digitais V,,593,11,,,,01/78
 Curso de Audio X,,598,11,,,,01/78
+Intercomunicador,,634,12,,,,02/78
+Novos Contadores Ampliáveis,,648,12,,,,02/78
+"Transmissor de FM, em Kit",,654,12,,,,02/78
 Medidor Audível de Luz,,658,12,,,,02/78
 Aproveitamento da Energia Solar,,660,12,,,,02/78
 Laser: Uma Forma Diferente De Luz,,666,12,,,,02/78
@@ -157,9 +168,11 @@ Amplificador Controlado por Tensão,,672,12,,,,02/78
 Referência p/ Afinação de Guitarras,,672,12,,,,02/78
 "Radioastronomia , Essa Misteriosa I",,673,12,,,,02/78
 Equivalência Entre Integrados II,,682,12,,,,02/78
+Como Tornar CMOS Mais Compatível com TTL,,686,12,,,,02/78
 Captador Mag. p/ Tacômetro Digital,,687,12,,,,02/78
 Princípios Básicos dos Toca - Discos,,689,12,,,,02/78
 Decibéis Simplificados,,698,12,,,,02/78
+Frequências dos Canais da Faixa do Cidadão,,704,12,,,,02/78
 Antena Direcional p/ 144 Mhz,,705,12,,,,02/78
 Problema das Ondas Estacionárias,,711,12,,,,02/78
 Ionosfera e a Reflexão das Ondas,,715,12,,,,02/78
@@ -170,9 +183,15 @@ Curso de Linguagens BASIC I,,738,12,,,,02/78
 Curso de Semicondutores II,,741,12,,,,02/78
 Curso de Técnicas Digitais VI,,747,12,,,,02/78
 Decodificador Quadrif. CBS / SQ UA 1312,,752,12,,,,02/78
+Digitempo,,3,13,,,,03/78
+Luzes Dançantes,,10,13,,,,03/78
+Interruptor Pelo Toque,,18,13,,,,03/78
+Capacímetro Digital — 1ª Parte,,31,13,,,,03/78
+Como Elaborar e Confeccionar uma Placa de Circuito Impresso,,35,13,,,,03/78
 Prot. p/ Trans. Contra Tensões Altas,,40,13,,,,03/78
 Dobrador de Freqüências 1 Hz a 12 Mhz,,40,13,,,,03/78
 Optoeletrônica Um Novo Campo,,41,13,,,,03/78
+Uma Visita à Bioengenharia,,50,13,,,,03/78
 "Radioastronomia , Essa Misteriosa II",,53,13,,,,03/78
 Soluções p/ Interferência de R F,,57,13,,,,03/78
 Prev. do Alcance p/ Faixa do Cidadão,,64,13,,,,03/78
@@ -182,6 +201,12 @@ Curso de Linguagens BASIC II,,83,13,,,,03/78
 Curso de Técnicas Digitais VII,,86,13,,,,03/78
 Curso de Semicondutores III,,95,13,,,,03/78
 UA 721 Sistema de Rádio A M / F M,,104,13,,,,03/78
+Radioastronomia — 3.º Parte,,78,14,,,,04/78
+8ª Feira da Eletro-Eletrônica — 1ª Feira Internacional de Energia,,130,14,,,,04/78
+Amplificador Estéreo 7 + 7 W,,131,14,,,,04/78
+Relógio Digital para Automóveis,,145,14,,,,04/78
+Capacimetro — Conclusão,,150,14,,,,04/78
+Três Indicadores de Tensão com LED's,,159,14,,,,04/78
 Vidros p/ a Eletrônica,,163,14,,,,04/78
 Antologia do 5 5 5,,169,14,,,,04/78
 "Radioastronomia , Essa Misteriosa III",,178,14,,,,04/78
@@ -189,6 +214,7 @@ Fabricando Discos,,183,14,,,,04/78
 Indicador de Pot. de Pico p/ Alto - Falantes,,190,14,,,,04/78
 Características de Transist. Ibrape,,192,14,,,,04/78
 Estações Repetidoras de V H F,,194,14,,,,04/78
+Estações Repetidoras de VHF,,195,14,,,,04/78
 Moduladores Delta em CIs II,,199,14,,,,04/78
 Teclado p/ Programar Ganho de Ampl. Op.,,206,14,,,,04/78
 Testador de Cabos de 16 Veias,,207,14,,,,04/78
@@ -196,24 +222,38 @@ As EAROMs Não Esquecem,,209,14,,,,04/78
 Curso de Linguagens COBOL,,214,14,,,,04/78
 Curso de Semicondutores IV,,219,14,,,,04/78
 Curso de Técnicas Digitais VIII,,224,14,,,,04/78
+LPC-CMOS,,259,15,,,,05/78
+Milivoltimetro CMOS,,265,15,,,,05/78
+Pré-amplificador para Cápsulas Magnéticas,,271,15,,,,05/78
+Bancada de Serviço: Acessórios Úteis para Facilitar Suas Montagens,,276,15,,,,05/78
+Introdução aos Circuitos de Computadores Analógicos,,281,15,,,,05/78
 Gerador de Freq. Ultrabaixa ( 5 5 5 ),,287,15,,,,05/78
 Circuito Impres. em Escala Industr.,,288,15,,,,05/78
 Etapas p/ Proj. de Ampl. Inv. e Não Inv.,,297,15,,,,05/78
 "Radioastronomia , Essa Misteriosa IV",,301,15,,,,05/78
 CMOS + Compatível com T T L,,307,15,,,,05/78
+Código «Q»,,312,15,,,,05/78
 Biamplificação,,313,15,,,,05/78
 Circuitos Impressos Flexíveis,,321,15,,,,05/78
 Conversor de Temperatura em Freq.,,332,15,,,,05/78
 Div. de Freq. + Ampl. Op. = Senóide,,333,15,,,,05/78
 Conversor de Tensão CC / CC ( 5 5 5 ),,334,15,,,,05/78
 Filtro p/ Alta Freq. em um Sinal,,335,15,,,,05/78
+8ª Feira da Eletro-Eletrônica — 1ª Feira Internacional de Energia,,336,15,,,,05/78
 Disp. CCD no Processamento Digital I,,339,15,,,,05/78
 Curso de Linguagens FORTRAN,,348,15,,,,05/78
 Álgebra Boleana I,,351,15,,,,05/78
 Curso de Semicondutores V,,355,15,,,,05/78
+Amplificador Estéreo em Ponte para Automóveis,,387,16,,,,06/78
+Efeitos Especiais,,397,16,,,,06/78
+Como Funciona o Osciloscópio,,403,16,,,,06/78
+Pisca-pisca com Diodos LED,,410,16,,,,06/78
+Jogos Eletrônicos de Vídeo,,413,16,,,,06/78
+A Eletrônica por Trás do «Walt Disney World»,,417,16,,,,06/78
 Antologia do 7 4 1,,421,16,,,,06/78
 Reg. de Tensão c/ Ampl. Op. C D A,,425,16,,,,06/78
 "Radioastronomia , Essa Misteriosa V",,426,16,,,,06/78
+O Futuro do Som Gravado,,431,16,,,,06/78
 Distorção Harmônica em Alto - Falantes,,437,16,,,,06/78
 Antenas para Radioamadores,,441,16,,,,06/78
 Banda Lateral Única ou S S B,,447,16,,,,06/78
@@ -225,6 +265,11 @@ Contrôles L S I nas Aplic. Domésticas,,465,16,,,,06/78
 Curso de Linguagens ALGOL,,472,16,,,,06/78
 Curso de Semicondutores VI,,475,16,,,,06/78
 Álgebra Boleana II,,481,16,,,,06/78
+DPM — Instrumento Digital de Painel,,514,17,,,,07/78
+Temporizador para Fotografia,,528,17,,,,07/78
+Rally e o NOVO Chronos — Relógios Digitais Modulares para Carro e Mesa,,535,17,,,,07/78
+Nova Caixa para o Milivoltimetro CMOS,,540,17,,,,07/78
+A Eletrônica na Base — Circuitos Resistivos,,541,17,,,,07/78
 O Milagre dos Circuitos Integrados,,545,17,,,,07/78
 Eletrônica nos Automóveis,,551,17,,,,07/78
 As Classes de Amplificação em Audio,,563,17,,,,07/78
@@ -237,6 +282,10 @@ Curso de Linguagens P L / 1,,601,17,,,,07/78
 Curso de Semicondutores VII,,605,17,,,,07/78
 Álgebra Boleana III,,609,17,,,,07/78
 TDA 2002 Amplificador de 8 W,,618,17,,,,07/78
+Curso de Semicondutores — 7ª Lição,,805,17,,,,07/78
+Injetor de Sinais,,653,18,,,,08/78
+Vento Eletrônico,,661,18,,,,08/78
+Algumas Sugestões para a Instalação do Amplimax,,667,18,,,,08/78
 Circuitos Resistivos Complexos,,673,18,,,,08/78
 O Segrêdo nas Comunicações Pela Eletr.,,677,18,,,,08/78
 Monoestável c/ Nível de Disp. Ajustável,,682,18,,,,08/78
@@ -250,6 +299,10 @@ O Assado e Por Conta dos Microproces.,,719,18,,,,08/78
 Curso de Linguagens A P L,,727,18,,,,08/78
 Curso de Semicondutores VIII,,731,18,,,,08/78
 Álgebra Boleana IV,,739,18,,,,08/78
+"Nova Fonte PX 13,5V/5A",,10,19,,,,09/78
+Pré-amplificador para Guitarra ou Violão,,16,19,,,,09/78
+Mais um Efeito Sonoro: o Som Espacial,,23,19,,,,09/78
+Lançado o Laboratório Júnior de Eletrônica!,,26,19,,,,09/78
 Jogos com a Calculadora I,,28,19,,,,09/78
 Ponte de Wheatstone,,33,19,,,,09/78
 A TV do Futuro : Tela Plana,,36,19,,,,09/78
@@ -258,6 +311,7 @@ Testador p/ Opto - Acopladores,,45,19,,,,09/78
 Dobrador de Freq. Digital ( 1 a 100 Khz ),,45,19,,,,09/78
 Circuito com Atraso Variável,,46,19,,,,09/78
 CMOS e TTL Interligados c/ Diodos,,46,19,,,,09/78
+Sistema Veicular de Reprodução de Discos,,53,19,,,,09/78
 "Afinal , O Que é Quadrifonia ? III",,59,19,,,,09/78
 A Telegrafia ( + Circuito ),,63,19,,,,09/78
 Multiplicador de Traços p/ Osciloscópio,,67,19,,,,09/78
@@ -271,6 +325,10 @@ Curso de Linguagens Pascal,,91,19,,,,09/78
 Curso de Semicondutores IX,,95,19,,,,09/78
 Curso de Semicondutores X,,99,19,,,,09/78
 Álgebra Boleana V,,105,19,,,,09/78
+O Novo Frequencimetro Digital NE-3052 — Conclusão,,1,20,,,,10/78
+Medidor de ROE,,2,20,,,,10/78
+Oscilador TTL Padrão,,23,20,,,,10/78
+Joguinhos com a Calculadora Eletrônica — 2ª Parte,,29,20,,,,10/78
 Circuitos Resistivos Estrêla / Triângulo,,34,20,,,,10/78
 Antologia do 7490,,39,20,,,,10/78
 Fonte Regulada p/ Toca Fitas ( 12 V X 3 A ),,43,20,,,,10/78
@@ -285,9 +343,13 @@ Aplicações de Microprocessadores II,,87,20,,,,10/78
 Curso de Linguagens ALGOL 68,,93,20,,,,10/78
 Álgebra Boleana VI,,99,20,,,,10/78
 Curso de Semicondutores XI,,103,20,,,,10/78
+"TV Game I, o Novo Jogo de Vídeo",,2,21,,,,11/78
+Mareletrônico,,15,21,,,,11/78
+Nova Sirene Americana,,20,21,,,,11/78
 Jogos com a Calculadora III,,23,21,,,,11/78
 Teorema de Thevenin,,27,21,,,,11/78
 Gerador de Funções c/ Ampl. Op.,,33,21,,,,11/78
+Engenharia Biomédica no Brasil,,37,21,,,,11/78
 Holografia Sônica,,41,21,,,,11/78
 Monoestável 555 c/ Disparo Positivo,,49,21,,,,11/78
 Displays c/ Válvulas de Cat. Frio,,58,21,,,,11/78
@@ -300,6 +362,7 @@ Contrôle de Luzes Complementares,,87,21,,,,11/78
 Aplicações de Microprocessadores III,,89,21,,,,11/78
 Curso de Semicondutores XII,,95,21,,,,11/78
 Álgebra Boleana VII,,101,21,,,,11/78
+Luz Rítmica para Automóveis,,4,22,,,,12/78
 Órgão Eletrônico com U J T,,25,22,,,,12/78
 Semicondutores em Renovação Const.,,29,22,,,,12/78
 Técnica de Manut. na Eletrônica I,,39,22,,,,12/78
@@ -313,6 +376,10 @@ Indicador de Status Digital,,96,22,,,,12/78
 Micro Converte Pos. de Pot. em Dígitos,,97,22,,,,12/78
 Curso de Semicondutores XIII,,101,22,,,,12/78
 Guia de Áudio ( Aparelhos ),,108,22,,,,12/78
+Fonte para os Efeitos Especiais,,2,23,,,,01/79
+Sincro-flash,,5,23,,,,01/79
+Chave Eletrônica,,10,23,,,,01/79
+A Eletrônica na Base - Eletrostática,,22,23,,,,01/79
 Tubos de Televisão ( Fabricação ),,36,23,,,,01/79
 Técnica de Manut. na Eletrônica II,,47,23,,,,01/79
 Interligação de Equip. de Audio,,59,23,,,,01/79
@@ -323,6 +390,10 @@ Osc + Ldr Control. Brilho de Display,,80,23,,,,01/79
 Testando Microprocessadores,,82,23,,,,01/79
 Prática em Técnicas Digitais I,,106,23,,,,01/79
 Curso de Semicondutores XIV,,114,23,,,,01/79
+STEREO 100 — 1.º Parte,,2,24,,,,02/79
+Disco Light,,14,24,,,,02/79
+Novas Luzes Dançantes,,17,24,,,,02/79
+FM II — Novo Transmissor de FM,,22,24,,,,02/79
 Comparador Indicador de Níveis c/ Leds,,27,24,,,,02/79
 Numeração Binária,,29,24,,,,02/79
 Detetor e Mem. de Sinais Anal. Bipolares,,35,24,,,,02/79
@@ -337,6 +408,7 @@ Gerador de Funções em Degraus,,84,24,,,,02/79
 Instrumentos no Domínio de Dados I,,87,24,,,,02/79
 Prática em Técnicas Digitais II,,97,24,,,,02/79
 Curso de Semicondutores XV,,117,24,,,,02/79
+Efeito UFO,,19,25,,,,03/79
 Circuito p/ Ligação em Ponte do Ampl.,,46,25,,,,03/79
 Gerador de Onda Quadrada c/ Sintet.,,56,25,,,,03/79
 "Osciladores a Cristal 100K / 4M / 124,5 Mhz",,61,25,,,,03/79
@@ -346,6 +418,8 @@ Instrumentos no Domínio de Dados II,,89,25,,,,03/79
 Prática em Técnicas Digitais III,,98,25,,,,03/79
 Sensor de Temperatura p/ o ICL 7107,,105,25,,,,03/79
 Curso de Semicondutores XVI,,118,25,,,,03/79
+Curso de Semicondutores — 16ª Lição,,188,25,,,,03/79
+Raio Laser em Aplicações de Consumo,,640,25,,,,03/79
 Supres. de Flutuação de Corrente ( Ampl. Op ),,37,26,,,,04/79
 Viagem Pelos Labirintos da Audição,,46,26,,,,04/79
 Curso de Audio ( Novo ) I,,52,26,,,,04/79
@@ -373,12 +447,17 @@ Condutivímetro p/ Concentração Salina,,77,27,,,,05/79
 Programação @ Microcomputadores I,,86,27,,,,05/79
 Prática em Técnicas Digitais V,,93,27,,,,05/79
 Curso de Semicondutores XVIII,,119,27,,,,05/79
+Power Meter — um Medidor de Potência para Seu Amplificador,,2,28,,,,06/79
+DPM 3% L — Montagem,,8,28,,,,06/79
+Curso Rápido de Transformadores — 4ª Lição,,12,28,,,,06/79
+Comunicação Através de Partículas Atômicas?,,16,28,,,,06/79
 Sistema Eletr. de Transf. de Fundos,,19,28,,,,06/79
 Temporizador Gera Trapezóides,,24,28,,,,06/79
 Fontes C C em Paralelo,,25,28,,,,06/79
 Reduzindo a Tensão de Condução do Diodo,,33,28,,,,06/79
 A B C com 7 Segmentos,,33,28,,,,06/79
 Radiocomando sem Segrêdo,,42,28,,,,06/79
+O Autômato Jurídico,,45,28,,,,06/79
 Em Busca do Som Perfeito,,50,28,,,,06/79
 Como Analisar Amplificadores,,58,28,,,,06/79
 "Func. de Resist. , Cap. e Indutores",,67,28,,,,06/79
@@ -386,6 +465,10 @@ Como Analisar Amplificadores,,58,28,,,,06/79
 Programação @ Microcomputadores II,,82,28,,,,06/79
 Prática em Técnicas Digitais VI,,95,28,,,,06/79
 Curso de Semicondutores IXX,,117,28,,,,06/79
+Equalizador de Áudio para Automóveis,,2,29,,,,07/79
+Power Meter — Conclusão,,9,29,,,,07/79
+O Gerador da Onda Quadrada Perfeita,,16,29,,,,07/79
+Curso Rápido de Transformadores — 5ª Lição,,22,29,,,,07/79
 Olhos Eletrônicos Sobre o Planeta,,26,29,,,,07/79
 Mixer Simples,,37,29,,,,07/79
 O Panorama Visto de Difer. Janelas,,46,29,,,,07/79
@@ -398,6 +481,10 @@ Duas Imagens Simultâneas na TV,,66,29,,,,07/79
 Programação @ Microcomputadores III,,78,29,,,,07/79
 Prática em Técnicas Digitais VII,,94,29,,,,07/79
 Curso de Semicondutores XX,,117,29,,,,07/79
+Montagem do Equasound,,2,30,,,,08/79
+Tiro ao Alvo Eletrônico,,12,30,,,,08/79
+Antologia do CA 3140,,17,30,,,,08/79
+A Memória Eletrônica e a Humana,,24,30,,,,08/79
 Metrônomo Eletrônico A,,30,30,,,,08/79
 Curso Rápido de Transformadores VI,,38,30,,,,08/79
 Retardo p/ Ligar Alto Falantes ( 5 5 5 ),,43,30,,,,08/79
@@ -413,6 +500,9 @@ Microprocessadores em Ação I,,84,30,,,,08/79
 8080 Para Principiantes V,,90,30,,,,08/79
 Prática em Técnicas Digitais VIII,,96,30,,,,08/79
 Curso de Semicondutores XXI,,118,30,,,,08/79
+Prático Misturador com Transistor de Efeito de Campo (FET),,12,31,,,,09/79
+Curso Rápido de Transformadores — 7ª Lição,,16,31,,,,09/79
+"Medição de Alta Tensão, Sem Susto — 1ª Parte",,21,31,,,,09/79
 "Comparador Real. p/ Diodo , Reg. Led",,26,31,,,,09/79
 Testador de Transistores c/ Led,,39,31,,,,09/79
 Eletromedicina - Diatermia,,42,31,,,,09/79
@@ -1533,6 +1623,7 @@ Evolução Técnica em 60 Anos de TV,,58,101,,,,07/85
 Medidor de Impedâncias de Alto Falantes,,64,101,,,,07/85
 Microondas - Foco nas Válvulas Especiais II,,68,101,,,,07/85
 A Solução das Antenas Triangulares,,74,101,,,,07/85
+"CMOS , O Futuro dos CIs VI",,10,102,,,,09/85
 Alarme Sonoro Proporcional,,20,102,,,,08/85
 Análise e Projeto de Filtros X,,24,102,,,,08/85
 CICLOP - Contr. Dig. Progr. p/ Indústria III,,32,102,,,,08/85
@@ -1543,7 +1634,6 @@ Sistemas de Modulação p/ Sinais Digitais,,56,102,,,,08/85
 LM 1886 Conversor D / A p/ Sinais de Vídeo,,62,102,,,,08/85
 Microondas - Foco nas Válvulas Especiais III,,74,102,,,,08/85
 Dados e Circ. p/ Escuta em Ondas Curtas,,78,102,,,,08/85
-"CMOS , O Futuro dos CIs VI",,10,102,,,,09/85
 Tiristores - Na Teoria e na Prática I,,14,103,,,,09/85
 Transmissão de Cor no Sistema SECAM,,21,103,,,,09/85
 Análise e Projeto de Filtros XI,,27,103,,,,09/85
