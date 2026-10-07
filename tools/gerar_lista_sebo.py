@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "EDICOES-FALTANTES.md"
 OUT = ROOT / "docs" / "lista-sebo.html"
+OUT_FRAGMENT = ROOT / "docs" / "lista-sebo-blogger.html"
 
 
 def expand(spec):
@@ -105,7 +106,30 @@ document.getElementById("reset").onclick=()=>{{if(confirm("Limpar tudo?")){{s={{
 """
 
 
+def render_fragment(gaps, sparse):
+    """Same checklist as an embeddable fragment (no <html>/<body>), with the
+    CSS scoped under #lsb so it does not leak into the host page theme."""
+    full = render(gaps, sparse)
+    style = re.search(r"<style>(.*?)</style>", full, re.S).group(1)
+    body = re.search(r"<body>(.*)</body>", full, re.S).group(1)
+    scoped = []
+    for sel, rest in re.findall(r"([^{}@]+)\{([^{}]*)\}", style.split("@media", 1)[0]):
+        sels = ",".join(
+            "#lsb" if s.strip() == "body" else "#lsb " + s.strip() for s in sel.split(",")
+        )
+        scoped.append(f"{sels}{{{rest}}}")
+    # Own background so the host theme colors never make it unreadable.
+    scoped.append("#lsb{background:#fff;color:#111;padding:12px 16px;max-width:760px;margin:0 auto}")
+    scoped.append("#lsb h1{margin-top:0}")
+    scoped.append("@media print{#lsb button{display:none}}")
+    return (
+        '<meta name="robots" content="noindex,nofollow">\n'
+        f'<style>{"".join(scoped)}</style>\n<div id="lsb">{body}</div>\n'
+    )
+
+
 if __name__ == "__main__":
     gaps, sparse = parse()
     OUT.write_text(render(gaps, sparse), encoding="utf-8")
+    OUT_FRAGMENT.write_text(render_fragment(gaps, sparse), encoding="utf-8")
     print(f"{OUT}: {len(gaps)} magazines, {sum(len(g[2]) for g in gaps)} issues", file=sys.stderr)
