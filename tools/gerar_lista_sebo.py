@@ -85,10 +85,10 @@ small{{font-weight:400;color:#555}}
 .chips input:focus-visible+span{{outline:2px solid #06c}}
 ul{{padding-left:1.1em}} button{{font:inherit;padding:6px 10px}}
 @media(prefers-color-scheme:dark){{body{{background:#111;color:#eee}}small{{color:#aaa}}h2{{border-color:#666}}.chips span{{border-color:#888}}}}
-@media print{{button{{display:none}}body{{font-size:11pt}}.chips span{{padding:2px 5px;border-color:#000}}.chips input:checked+span{{background:none;color:#000;border-color:#000}}section{{break-inside:avoid}}}}
+@page{{size:A4;margin:8mm}}@media print{{.intro{{display:none}}body{{font-size:9.5pt;line-height:1.3;padding:0;max-width:none}}h1{{font-size:12pt;margin:0 0 2pt}}h2{{font-size:10pt;margin:7pt 0 3pt}}.chips{{gap:3.5px}}.chips span{{min-width:2em;padding:2px 4px;border-color:#000;border-radius:3px}}.chips input:checked+span{{background:none;color:#000;border-color:#000}}section{{break-inside:avoid}}ul{{margin:2pt 0}}}}
 </style></head><body>
 <h1>Edições que faltam</h1>
-<p>Toque no número ao encontrar. Marcações ficam salvas neste aparelho.
+<p class="intro">Toque no número ao encontrar. Marcações ficam salvas neste aparelho.
 <button id="reset">Limpar marcações</button></p>
 {''.join(parts)}
 <h2>Acervo esparso (só temos algumas; qualquer outra serve)</h2>
