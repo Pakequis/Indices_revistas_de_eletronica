@@ -104,6 +104,17 @@ Indicador de Polaridade / Excitador de Relê de Trava / Termômetro Centígrado 
 Verificador Dinâmico de Transistores de Potência / Multiplicador de Tensão Cockcroft-Walton / Transmissor IR de 50 kHz,,42,2,,,Circuitos Úteis,Fevereiro/2001
 Transistores de Comutação para Fontes Chaveadas e Aplicações Industriais,,44,2,,,,Fevereiro/2001
 Mini-Curso de Microcontrolador,,54,2,,,,Fevereiro/2001
+Guia e Conteúdo do CD,,2,3,,,,Maio/2001
+StarPlug,,5,3,,,,Maio/2001
+Multisim 2001,,11,3,,,,Maio/2001
+LabVIEW 6i,,16,3,,,,Maio/2001
+Coletâneas de Sites de Eletrônica,,24,3,,,,Maio/2001
+MPLAB IDE Microchip,,30,3,,,,Maio/2001
+PicLab 4A,,32,3,,,,Maio/2001
+Fórmulas Úteis para Circuitos com Diodos,,46,3,,,,Maio/2001
+Circuitos,,54,3,,,,Maio/2001
+Diodos Laser,,68,3,,,,Maio/2001
+Componentes Úteis - Data-Sheets da Intersil,,73,3,,,,Maio/2001
 Guia e Conteúdo do CD-ROM,,2,4,,,,2001
 IHM (Interface Homem-Máquina),,5,4,,,,2001
 Série Microcontroladores MSP430 Texas Instruments,,8,4,,,,2001
@@ -135,6 +146,19 @@ Fórmulas e Cálculos com SCRs e TRIACs,,48,5,,,,Novembro/2001
 Chaves e Acopladores Ópticos,,50,5,,,,Novembro/2001
 Totalizador de Consumo de Energia,,60,5,,,,Novembro/2001
 Controle Biestável de Toque,,62,5,,,,Novembro/2001
+Interface Homem-Máquina (MachineShop),,4,6,,,,2002
+Um Detector de Glitches & Como Usar o Utilitário VHDL Wizard,,12,6,,,,2002
+Switchers Made Simple,,17,6,,,,2002
+µDX Controlador Programável Compacto,,20,6,,,,2002
+Placa de Aquisição de Dados com o Delphi,,26,6,,,,2002
+Guia e Conteúdo do CD,,32,6,,,,2002
+Controle para Potenciômetros Digitais com PIC16F84A,,33,6,,,,2002
+Empregabilidade,,36,6,,,,2002
+Cristais,,40,6,,,,2002
+Desenvolvendo Projetos (WEBENCH),,46,6,,,,2002
+Conversor AC - DC,,49,6,,,,2002
+Um Expansor de Portas para Microcontroladores Utilizando Tecnologia CPLD Xilinx,,55,6,,,,2002
+Eletrônica Digital - Fórmulas e Informações Úteis,,60,6,,,,2002
 Retrofitting,,2,7,,,,Maio/2002
 SelGuide,,8,7,,,,Maio/2002
 MultiSIM 2001 / UltiBOARD 2001 / UltiROUTE / CommSIM 2001,,13,7,,,,Maio/2002
@@ -193,6 +217,51 @@ Regulador com Acionamento Lento,,62,9,,,Soluções Práticas,Junho/2003
 Chave Óptica,,63,9,,,Soluções Práticas,Junho/2003
 Fototransistor Rápido,,64,9,,,Soluções Práticas,Junho/2003
 Drive de Solenóide,,64,9,,,Soluções Práticas,Junho/2003
+Nexar & Nanoboard,,3,10,,,Microcontroladores,Agosto/2004
+Criando Código C para Microcontroladores MC68HC08,,6,10,,,Microcontroladores,Agosto/2004
+Ambiente de Desenvolvimento SDEx201,,8,10,,,Microcontroladores,Agosto/2004
+O que há de novo no LabVIEW 7.1?,,11,10,,,Instrumentação,Agosto/2004
+Testando Baterias com Cargas Eletrônicas,,14,10,,,Instrumentação,Agosto/2004
+Inversores Vetoriais de Fluxo,,18,10,,,Automação Industrial,Agosto/2004
+Guia do CD,,22,10,,,,Agosto/2004
+O Movitools 4.10,,25,10,,,Automação Industrial,Agosto/2004
+Fonte de 24 VCC com Redundância,,26,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Simulador de CNC,,26,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Indicador de Horizonte,,27,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Sensor de Sobretemperatura para Sistemas com CLP,,27,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Unidade de Frenagem para Inversores de Freqüência,,28,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Protetor de Sobretenção de Alta Potência,,28,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Filtro de EMI Conduzida,,28,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Avaliador Rápido de Terra,,29,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Protetor Dinâmico para Sobretensões,,30,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Amplificador para Instrumentação,,30,10,,,10 Soluções Práticas para o Técnico de Campo,Agosto/2004
+Carregador de Baterias de Nicad,,31,10,,,10 Circuitos Práticos,Agosto/2004
+Monitor de Estado para Bateria Chumbo-Ácido,,32,10,,,10 Circuitos Práticos,Agosto/2004
+Detector Sísmico e de Vibrações,,32,10,,,10 Circuitos Práticos,Agosto/2004
+Detector de Corrente Alternada,,33,10,,,10 Circuitos Práticos,Agosto/2004
+Inversor para Uso Automotivo,,34,10,,,10 Circuitos Práticos,Agosto/2004
+Gerador de Pulsos com Retardo,,34,10,,,10 Circuitos Práticos,Agosto/2004
+Termostato,,35,10,,,10 Circuitos Práticos,Agosto/2004
+Interface para Porta Paralela,,36,10,,,10 Circuitos Práticos,Agosto/2004
+Comparador de Janela,,36,10,,,10 Circuitos Práticos,Agosto/2004
+Ohmímetro Linear de Baixas Resistências,,37,10,,,10 Circuitos Práticos,Agosto/2004
+Fonte de Corrente Constante para LEDs,,38,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+LED como Foto-sensor,,39,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Foto-receptor para 40 KHz,,39,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Sensor Óptico de Direção,,40,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Interface Óptica TTL,,41,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Flip-Flop R-S com Acopladores Ópticos,,41,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Receptor para Radiação Modulada,,42,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Fototiristor,,42,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Receptor para Sinais Ópticos Modulados,,43,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Emissor para Link Óptico,,43,10,,,10 Circuitos de Optoeletrônica,Agosto/2004
+Banda Ultralarga - O Futuro das Comunicações sem Fio,,44,10,,,Tecnologia,Agosto/2004
+Códigos de Barras,,48,10,,,Tecnologia,Agosto/2004
+Notícias,,52,10,,,,Agosto/2004
+Fonte de Corrente Constante para LEDs,,54,10,,,Componentes,Agosto/2004
+Proteção de Portas I/O contra ESD,,55,10,,,Componentes,Agosto/2004
+Capacitores em Pastilhas de Silício para RF,,58,10,,,Componentes,Agosto/2004
+"Controladores Tipo ""HOT SWAP""",,62,10,,,Componentes,Agosto/2004
 A evolução dos relés,,3,11,,,Tecnologia,Setembro/2005
 O fim do silício na eletrônica,,6,11,,,Tecnologia,Setembro/2005
 Atenuador de áudio simples,,8,11,,,Projetos,Setembro/2005
