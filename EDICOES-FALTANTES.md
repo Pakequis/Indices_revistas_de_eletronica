@@ -20,9 +20,9 @@ completar o acervo.
 | Eletrônica para Todos (2ª coleção) | 0–33 | 32 |
 | Eletrônica Total (numeração principal) | 1–159 | 128, 131, 136, 138 |
 | Informática Eletrônica Digital | 1–23 | 18 |
-| Monitor de Rádio e TV | 9–426 | 94 números — ver lista completa abaixo |
-| Rádio - TV Técnico | 8–58 | 9, 11, 14, 17, 18, 23–28, 30, 32–43, 47–49, 51, 52, 56 |
-| Saber Eletrônica (numeração principal) | 1–475 | 6, 10, 12, 25, 26, 395, 399, 411, 414, 415, 419, 421, 432–434, 437, 439, 441, 444, 449 |
+| Monitor de Rádio e TV | 9–426 | 92 números — ver lista completa abaixo |
+| Rádio - TV Técnico | 8–58 | 9, 11, 14, 17, 18, 23–26, 28, 30, 32–43, 47–49, 51, 52, 56 |
+| Saber Eletrônica (numeração principal) | 1–475 | 2, 4–12, 25, 26, 395, 399, 411, 414, 415, 419, 421, 432–434, 437, 439, 441, 444, 449 |
 | IUB | 1–72 | 50, 52, 65, 67, 70, 71 |
 | CTA Eletrônica | 01–36 | nenhuma |
 | Mecatrônica Fácil | 01–55 | 51 |
@@ -34,7 +34,7 @@ completar o acervo.
 | Revista Rádio | — | nºs 06 e 16 |
 | Eletrônica Montagem e Experimentos | — | só temos o nº 06 (falta o restante da coleção) |
 
-**Monitor de Rádio e TV — lista completa dos 94 números faltando (intervalo 9–426):**
+**Monitor de Rádio e TV — lista completa dos 92 números faltando (intervalo 9–426):**
 10–25, 28–30, 32, 33, 35, 40, 42–51, 53, 54, 59, 61, 72–75, 77–82, 86,
 89, 91, 94–96, 99–109, 111–114, 116, 126, 377, 378, 381, 386, 387, 389,
 390, 391, 395, 397, 399, 400, 404, 410, 413, 417–422, 424.
