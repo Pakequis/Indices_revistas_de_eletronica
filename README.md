@@ -11,7 +11,7 @@ Organizado por Rodrigo Feliciano - [www.pakequis.com.br](http://www.pakequis.com
 | --- | --- |
 | Títulos indexados | 51 |
 | Edições indexadas | 2.727 |
-| Artigos indexados | 54.238 |
+| Artigos indexados | 54.441 |
 
 
 - Arquivos .CSV podem ser abertos e editados no Open Office Calc (ou no Excel, tomando cuidado com os delimitadores). 

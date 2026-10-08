@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Compila todos os CSVs de Indices/ num único JSON minificado para busca client-side.
 
-Formato de saída: {"colunas": [...], "registros": [[...], [...], ...]}
+Formato de saída: {"colunas": [...], "atualizado_em": "AAAA-MM-DD", "registros": [[...], [...], ...]}
+"atualizado_em" é a data da compilação; a página de busca a mostra ao leitor.
 Cada registro tem os mesmos campos na mesma ordem das colunas, evitando
 repetir as chaves em cada objeto (o que infla bastante o tamanho do JSON).
 
@@ -17,6 +18,7 @@ Página não numéricas (faixas como "11-13", "Especial 1", "3ª Capa" etc.).
 
 import csv
 import json
+from datetime import date
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -48,7 +50,7 @@ def compilar():
 
 def main():
     registros = compilar()
-    dados = {"colunas": COLUNAS, "registros": registros}
+    dados = {"colunas": COLUNAS, "atualizado_em": date.today().isoformat(), "registros": registros}
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with OUTPUT_PATH.open("w", encoding="utf-8") as f:
