@@ -67,9 +67,8 @@ extra dessas revistas é bem-vinda:
   1970–1976, 1979, 1981–1995. **Anos sem nenhum exemplar nesse
   intervalo: 1960, 1966–1969, 1977, 1978, 1980.** Cobertura mês a mês
   dentro dos anos presentes ainda não foi conferida a fundo.
-- **Antenna Webzine (2020)**: mensal. PDFs de 2020-07 a 2026-09 (75
-  números, sem mês faltando). O índice (`.csv`) cobre 2020-07 a 2023-01;
-  2023-02 a 2026-09 têm PDF mas ainda não foram indexadas.
+- **Antenna Webzine (2020)**: mensal. PDFs e índice (`.csv`) de
+  2020-07 a 2026-09 (75 números, sem mês faltando).
 - **Eletrônica Popular**: organizada em blocos de dois anos (biênios),
   com cobertura contínua de 1956 a 1982. Não há indício de exemplares
   depois de 1982 no acervo.
